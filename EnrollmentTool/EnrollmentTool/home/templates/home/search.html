@@ -1,0 +1,31 @@
+{% extends "home/base.html" %}
+{% block content %}
+<form action="#" method="get">
+    <div class="text-center" style="position:relative; top:50px;">
+        <div class="row">
+            <div class="col"></div>
+            <div class="col">
+                <h4>Department Name</h4>
+                <input id="department" type="text" name="department">
+            </div>
+            <div class="col"></div>
+        </div>
+        <div class="row">
+            <div class="col"></div>
+            <div class="col">
+                <h4>Course Number</h4>
+                <input id="course-num" type="number" name="course-num">
+            </div>
+            <div class="col"></div>
+        </div>
+        <div class="row">
+            <div class="col"></div>
+            <div class="col">
+                <h4></h4>
+                <input type="submit" class="btn btn-outline-dark btn-block" value="Search" name="search" onClick="window.location.reload();">
+            </div>
+            <div class="col"></div>
+        </div>
+    </div>
+    </form>
+{% endblock content %}

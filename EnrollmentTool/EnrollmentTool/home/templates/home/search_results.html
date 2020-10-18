@@ -1,0 +1,43 @@
+{% extends "home/base.html" %}
+{% block content %}
+    <div class="text-center" style="position:relative; top:50px;">
+        <a class="btn btn-block btn-lg btn-outline" href="{% url 'search' %}">Search Again</a>
+        <h1>Department: {{department}}</h1>
+        <h1>Course Number: {{course_num}}</h1>
+        <div class="container"><div class="row">
+            {% for object in object_list %}
+                <div class="col-4">
+                    <a href="{% url 'lecture-detail' object.index%}">
+                        <h3 style="text-align: center;">{{object.department}} - {{object.course_num}} ({{object.class_num}}-{{object.section_num}})</h3>
+                    </a>
+                    <h4>{{object.course_name}}</h4>
+                    <h5>Professor: {{object.professor}}</h5>
+                    <h5>Class Type: {{object.class_type}}</h5>
+                    <h5>Credits: {{object.credits}}</h5>
+                    <h5>Location: {{object.meeting_place}}</h5>
+                    <h5>Seats: {{object.filled_seats}}/{{object.seat_count}}</h5>
+                    <h5>Meeting Days: {{object.meeting_days}}</h5>
+                    <h5>Meeting Time: {{object.meeting_times}}</h5>
+                </div>
+            {% endfor %}
+        </div>
+            {% if is_paginated %}
+            {% if page_obj.has_previous %}
+                <a class="btn btn-outline-dark" href="?page=1">First</a>
+                <a class="btn btn-outline-dark" href="?page={{ page_obj.previous_page_number }}">Previous</a>
+            {% endif %}
+            {% for num in page_obj.paginator.page_range %}
+                {% if page_obj.number == num %}
+                    <a class="btn btn-dark" href="?page={{ num }}">{{ num }}</a>
+                {% elif num > page_obj.number|add:'-3' and num < page_obj.number|add:'3' %}
+                    <a class="btn btn-outline-dark" href="?page={{ num }}">{{ num }}</a>
+                {% endif %}
+            {% endfor %}
+            {% if page_obj.has_next %}
+                <a class="btn btn-outline-dark" href="?page={{ page_obj.next_page_number }}">Next</a>
+                <a class="btn btn-outline-dark" href="?page={{ page_obj.paginator.num_pages }}">Last</a>
+            {% endif %}
+
+        {% endif %}
+    </div>
+{% endblock content %}

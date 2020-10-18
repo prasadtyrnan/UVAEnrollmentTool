@@ -1,0 +1,13 @@
+{% extends "home/base.html" %}
+{% block content %}
+    <h1>{{object.department}} - {{object.course_num}} ({{object.class_num}}-{{object.section_num}})</h1>
+    <h2>{{object.course_name}}</h2>
+    <h3>Professor: {{object.professor}}</h3>
+    <h3>Class Type: {{object.class_type}}</h3>
+    <h3>Credits: {{object.credits}}</h3>
+    <h3>Location: {{object.meeting_place}}</h3>
+    <h3>Seats: {{object.filled_seats}}/{{object.seat_count}}</h3>
+    <h3>Meeting Days: {{object.meeting_days}}</h3>
+    <h3>Meeting Time: {{object.meeting_times}}</h3>
+    <a href="{% url 'lecture-detail' object.lecture_num %}"><h3>Lecture</h3></a>
+{% endblock content %}

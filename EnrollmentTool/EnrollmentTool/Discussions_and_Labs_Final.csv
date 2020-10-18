@@ -1,0 +1,1060 @@
+,Department,Course_Num,Course_Name,Class_Num,Section_Num,Class_Type,Credits,Seat_Count,Meeting_Place,Professor,Start_Time,End_Time,Date_Nums,Lecture_Num
+0,AAS,1020,Introduction to African-American and African Studies II,10006,101,Discussion,0,20,New Cabell Hall 111,Eniola Afolayan,1800,1850,2,0
+1,AAS,1020,Introduction to African-American and African Studies II,10005,102,Discussion,0,20,New Cabell Hall 111,Eniola Afolayan,1700,1750,2,0
+2,AAS,1020,Introduction to African-American and African Studies II,10004,103,Discussion,0,20,Nau Hall 242,Ashon Crawley,1700,1750,3,0
+3,AAS,1020,Introduction to African-American and African Studies II,10003,104,Discussion,0,20,New Cabell Hall 107,Ashon Crawley,1900,1950,3,0
+4,AAS,1020,Introduction to African-American and African Studies II,10007,105,Discussion,0,20,New Cabell Hall 107,Eniola Afolayan,1900,1950,2,0
+5,AAS,1020,Introduction to African-American and African Studies II,10002,106,Discussion,0,20,New Cabell Hall 287,Ashon Crawley,1800,1850,3,0
+6,AAS,1020,Introduction to African-American and African Studies II,13095,107,Discussion,0,20,New Cabell Hall 291,Staff,1600,1650,2,0
+7,AAS,1020,Introduction to African-American and African Studies II,13096,108,Discussion,0,20,New Cabell Hall 107,Staff,1700,1750,2,0
+8,AAS,1020,Introduction to African-American and African Studies II,13097,109,Discussion,0,20,New Cabell Hall 107,Staff,1800,1850,2,0
+9,ANTH,1010,Introduction to Anthropology,12296,101,Discussion,0,20,New Cabell Hall 283,Michael Wenzel,800,850,5,28
+10,ANTH,1010,Introduction to Anthropology,12297,102,Discussion,0,20,New Cabell Hall 191,Michael Wenzel,1900,1950,3,28
+11,ANTH,1010,Introduction to Anthropology,12298,103,Discussion,0,20,New Cabell Hall 291,Michael Wenzel,1600,1650,1,28
+12,ANTH,1010,Introduction to Anthropology,19107,201,Discussion,0,20,The Rotunda Room 150,Nazli Azergun,1200,1250,5,29
+13,ANTH,1010,Introduction to Anthropology,19108,202,Discussion,0,20,New Cabell Hall 187,Nazli Azergun,1600,1650,3,29
+14,ANTH,1010,Introduction to Anthropology,19109,203,Discussion,0,20,New Cabell Hall 107,Nazli Azergun,1900,1950,1,29
+15,ANTH,1010,Introduction to Anthropology,19111,301,Discussion,0,20,New Cabell Hall 209,Xiaolei Qu,830,920,4,30
+16,ANTH,1010,Introduction to Anthropology,19112,302,Discussion,0,20,New Cabell Hall 115,Xiaolei Qu,1900,1950,4,30
+17,ANTH,1010,Introduction to Anthropology,19113,303,Discussion,0,20,New Cabell Hall 209,Xiaolei Qu,1800,1850,1,30
+18,ANTH,2250,"Nationalism, Racism, Multiculturalism",19173,101,Discussion,0,20,Nau Hall 242,Rachel Apone,1700,1750,1,31
+19,ANTH,2250,"Nationalism, Racism, Multiculturalism",19174,102,Discussion,0,20,Bryan Hall 235,Gregory Flynn-Sollish,1600,1650,2,31
+20,ANTH,2250,"Nationalism, Racism, Multiculturalism",19175,103,Discussion,0,20,Brooks Hall 103,Rachel Apone,1900,1950,4,31
+21,ANTH,2250,"Nationalism, Racism, Multiculturalism",19176,104,Discussion,0,20,Bryan Hall 328,Gregory Flynn-Sollish,900,950,5,31
+22,ANTH,2250,"Nationalism, Racism, Multiculturalism",19177,105,Discussion,0,20,The Rotunda Room 152,Gregory Flynn-Sollish,1200,1250,5,31
+23,ANTH,2250,"Nationalism, Racism, Multiculturalism",19178,106,Discussion,0,20,Brooks Hall 103,Rachel Apone,1800,1850,4,31
+24,ANTH,2280,Medical Anthropology,19115,101,Discussion,0,20,Dell 2 102,Zach McKeeby,1700,1750,1,32
+25,ANTH,2280,Medical Anthropology,19116,102,Discussion,0,20,Brooks Hall 103,Richard Karl Deang,1900,1950,3,32
+26,ANTH,2280,Medical Anthropology,19117,103,Discussion,0,20,New Cabell Hall 283,Zach McKeeby,1600,1650,1,32
+27,ANTH,2280,Medical Anthropology,19118,104,Discussion,0,20,New Cabell Hall 383,Zach McKeeby,1530,1620,2,32
+28,ANTH,2280,Medical Anthropology,19121,105,Discussion,0,20,New Cabell Hall 191,Soha Tariq,1700,1750,4,32
+29,ANTH,2280,Medical Anthropology,19122,106,Discussion,0,20,New Cabell Hall 485,Richard Karl Deang,1530,1620,1,32
+30,ANTH,2280,Medical Anthropology,19123,107,Discussion,0,20,New Cabell Hall 211,Madeleine Jean,1530,1620,4,32
+31,ANTH,2280,Medical Anthropology,19124,108,Discussion,0,20,Brooks Hall 103,Madeleine Jean,1300,1350,1,32
+32,ANTH,2280,Medical Anthropology,19125,109,Discussion,0,20,Maury Hall 113,Richard Karl Deang,1200,1250,3,32
+33,ANTH,2280,Medical Anthropology,19126,110,Discussion,0,20,New Cabell Hall 115,Soha Tariq,900,950,1,32
+34,ANTH,2280,Medical Anthropology,19127,111,Discussion,0,20,The Rotunda Room 150,Soha Tariq,1000,1050,5,32
+35,ANTH,2280,Medical Anthropology,19128,112,Discussion,0,20,New Cabell Hall 485,Madeleine Jean,1200,1250,3,32
+36,ANTH,2410,Sociolinguistics,12542,101,Discussion,0,20,The Rotunda Room 152,Courtney Cox,1000,1050,5,34
+37,ANTH,2410,Sociolinguistics,12543,102,Discussion,0,20,The Rotunda Room 150,Courtney Cox,1100,1150,5,34
+38,ANTH,2410,Sociolinguistics,12544,103,Discussion,0,20,The Rotunda Room 152,Courtney Cox,1400,1450,4,34
+39,ANTH,2415,Language in Human Evolution,19161,101,Discussion,0,20,New Cabell Hall 187,Miao Jiang,900,950,5,35
+40,ANTH,2415,Language in Human Evolution,19162,102,Discussion,0,20,New Cabell Hall 207,Miao Jiang,800,850,5,35
+41,ANTH,2415,Language in Human Evolution,19163,103,Discussion,0,20,Dell 2 101,Fiona Balestrieri,1500,1550,3,35
+42,ANTH,2415,Language in Human Evolution,19164,104,Discussion,0,20,Dell 2 101,Fiona Balestrieri,1600,1650,3,35
+43,ANTH,2415,Language in Human Evolution,19165,105,Discussion,0,20,Brooks Hall 103,Fiona Balestrieri,800,850,4,35
+44,ANTH,2415,Language in Human Evolution,19166,106,Discussion,0,20,Fayerweather Hall 215,Miao Jiang,1500,1550,4,35
+45,ANTH,2430,Languages of the World,11993,101,Discussion,0,20,Cocke Hall 101,Taylor Gilliam,1800,1850,3,36
+46,ANTH,2430,Languages of the World,11994,102,Discussion,0,20,New Cabell Hall 111,Taylor Gilliam,1900,1950,3,36
+47,ANTH,2430,Languages of the World,11995,103,Discussion,0,20,New Cabell Hall 207,Taylor Gilliam,1300,1350,4,36
+48,ANTH,3020,Using Anthropology,19134,101,Discussion,0,20,Brooks Hall 103,Shane Weitzman,900,950,5,39
+49,ANTH,3020,Using Anthropology,19135,102,Discussion,0,20,The Rotunda Room 152,Shane Weitzman,1100,1150,5,39
+50,ANTH,3020,Using Anthropology,19136,103,Discussion,0,20,New Cabell Hall 268,Shane Weitzman,1500,1550,4,39
+51,ANTH,3240,The Anthropology of Food,19157,101,Discussion,0,20,Gibson Hall 241,Jeffrey Attridge,1500,1550,4,40
+52,ANTH,3240,The Anthropology of Food,19158,102,Discussion,0,20,Brooks Hall 103,Jeffrey Attridge,800,850,5,40
+53,ANTH,3240,The Anthropology of Food,19159,103,Discussion,0,20,New Cabell Hall 332,Jeffrey Attridge,1000,1050,5,40
+54,ANTH,3470,Language and Culture in the Middle East,19393,101,Discussion,0,20,Brooks Hall 103,Tirajeh Tahvildar Akbari,1700,1750,3,43
+55,ANTH,3470,Language and Culture in the Middle East,19394,102,Discussion,0,20,Brooks Hall 103,Tirajeh Tahvildar Akbari,1700,1750,4,43
+56,ANTH,3470,Language and Culture in the Middle East,19395,103,Discussion,0,20,Brooks Hall 103,Tirajeh Tahvildar Akbari,1300,1350,5,43
+57,ANTH,3490,Language and Thought,19152,101,Discussion,0,20,The Rotunda Room 152,Colleen Winkelman,1000,1050,1,44
+58,ANTH,3490,Language and Thought,19153,102,Discussion,0,20,New Cabell Hall 115,Colleen Winkelman,1100,1150,2,44
+59,ANTH,3490,Language and Thought,19154,103,Discussion,0,20,New Cabell Hall 111,Colleen Winkelman,1700,1750,1,44
+60,ANTH,7470,Language and Culture in the Middle East,19747,101,Discussion,0,5,Monroe Hall 113,Daniel Lefkowitz,1100,1150,5,67
+61,ARTH,1505,Art and the Modern World,12041,101,Discussion,0,15,Fayerweather Hall 215,Cho Wun Ma,1600,1650,4,281
+62,ARTH,1505,Art and the Modern World,12042,102,Discussion,0,15,Fayerweather Hall 206,Cho Wun Ma,1700,1750,2,281
+63,ARTH,1505,Art and the Modern World,12043,103,Discussion,0,15,Fayerweather Hall 208,Cho Wun Ma,1700,1750,4,281
+64,ARTH,1505,Art and the Modern World,12044,104,Discussion,0,15,Fayerweather Hall 215,Maria Cornejo,900,950,2,281
+65,ARTH,1505,Art and the Modern World,12045,105,Discussion,0,15,Fayerweather Hall 215,Maria Cornejo,1000,1050,2,281
+66,ARTH,1505,Art and the Modern World,12046,106,Discussion,0,15,Fayerweather Hall 215,Maria Cornejo,1200,1250,2,281
+67,ARTH,1507,Art and Global Cultures,18691,101,Discussion,0,15,Fayerweather Hall 206,Kelvin Parnell,1000,1050,4,282
+68,ARTH,1507,Art and Global Cultures,18692,102,Discussion,0,15,Fayerweather Hall 215,Kelvin Parnell,1100,1150,2,282
+69,ARTH,1507,Art and Global Cultures,18693,103,Discussion,0,15,Fayerweather Hall 215,Kelvin Parnell,1400,1450,4,282
+70,ARTH,2451,"Modern Art, 1900-1945",18792,101,Discussion,0,20,Fayerweather Hall 206,Lucia Colombari,1000,1050,2,287
+71,ARTH,2451,"Modern Art, 1900-1945",18793,102,Discussion,0,20,New Cabell Hall 191,Lucia Colombari,1700,1750,2,287
+72,ARTH,2451,"Modern Art, 1900-1945",18794,103,Discussion,0,15,Fayerweather Hall 206,Lucia Colombari,900,950,2,287
+73,ARTH,2752,"America! Art, Identity, Politics",18797,101,Discussion,0,20,Fayerweather Hall 206,Meaghan Walsh,1000,1050,1,290
+74,ARTH,2752,"America! Art, Identity, Politics",18798,102,Discussion,0,20,Fayerweather Hall 206,Meaghan Walsh,1100,1150,1,290
+75,ARTH,2752,"America! Art, Identity, Politics",18799,103,Discussion,0,20,Fayerweather Hall 206,Meaghan Walsh,1700,1750,4,290
+76,ARTH,2752,"America! Art, Identity, Politics",20443,104,Discussion,0,15,Fayerweather Hall 208,Abigail Bradford,1000,1050,1,290
+77,ARTH,2752,"America! Art, Identity, Politics",20444,105,Discussion,0,15,Fayerweather Hall 208,Abigail Bradford,1100,1150,1,290
+78,ARTH,2752,"America! Art, Identity, Politics",20445,106,Discussion,0,15,Fayerweather Hall 208,Abigail Bradford,1600,1650,4,290
+79,ARTH,4051,Art History: Theory and Practice,11529,101,Discussion,0,12,New Cabell Hall 042,Lucie Stylianopoulos,1600,1700,2,302
+80,ASTR,1230,Introduction to Astronomical Observation,18842,101,Laboratory,0,35,Astronomy Bldg G25,Borja Anguiano,2100,2300,1,357
+81,ASTR,1230,Introduction to Astronomical Observation,18843,102,Laboratory,0,35,Astronomy Bldg G25,Borja Anguiano,2000,2300,2,357
+82,ASTR,1230,Introduction to Astronomical Observation,18844,103,Laboratory,0,35,Astronomy Bldg G25,Borja Anguiano,2000,2300,3,357
+83,ASTR,1230,Introduction to Astronomical Observation,18845,104,Laboratory,0,35,Astronomy Bldg G25,Borja Anguiano,2000,2300,4,357
+84,ASTR,2120,Introduction to Astrophysics II,10048,101,Discussion,0,25,Astronomy Bldg 265,Mark Siebert,1500,1550,5,363
+85,ASTR,3130,Observational Astronomy,11654,101,Laboratory,0,20,Astronomy Bldg 265,Michael Skrutskie,2100,2300,2,364
+86,ASTR,3130,Observational Astronomy,11656,102,Laboratory,0,20,Astronomy Bldg 265,Michael Skrutskie,2100,2300,3,364
+87,BIOL,2200,Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology,12055,102,Laboratory,0,24,Chemistry Bldg Room 324,Jessamyn Manson+1,1400,1630,1,436
+88,BIOL,2200,Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology,12056,103,Laboratory,0,24,Chemistry Bldg Room 326,Jessamyn Manson+1,1400,1630,1,436
+89,BIOL,2200,Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology,12057,104,Laboratory,0,24,Chemistry Bldg Room 328,Benedict Lenhart+1,1400,1630,1,436
+90,BIOL,2200,Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology,12058,105,Laboratory,0,24,Chemistry Bldg Room 324,Ezra Bass+1,1730,2000,1,436
+91,BIOL,2200,Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology,12059,106,Laboratory,0,24,Chemistry Bldg Room 326,Jessamyn Manson+1,1730,2000,1,436
+92,BIOL,2200,Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology,12103,107,Laboratory,0,24,Chemistry Bldg Room 328,Benedict Lenhart+1,1730,2000,1,436
+93,BIOL,2200,Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology,12060,108,Laboratory,0,24,Chemistry Bldg Room 324,Hanna Makowski+1,1000,1230,2,436
+94,BIOL,2200,Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology,12061,109,Laboratory,0,24,Chemistry Bldg Room 326,Everett Altherr+1,1000,1230,2,436
+95,BIOL,2200,Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology,12062,110,Laboratory,0,24,Chemistry Bldg Room 328,Jessamyn Manson+1,1000,1230,2,436
+96,BIOL,2200,Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology,12063,111,Laboratory,0,24,Chemistry Bldg Room 324,Jessamyn Manson+1,1400,1630,2,436
+97,BIOL,2200,Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology,12064,112,Laboratory,0,24,Chemistry Bldg Room 326,Chenyu Yang+1,1400,1630,2,436
+98,BIOL,2200,Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology,12065,113,Laboratory,0,24,Chemistry Bldg Room 328,Jessamyn Manson+1,1400,1630,2,436
+99,BIOL,2200,Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology,12104,114,Laboratory,0,24,Chemistry Bldg Room 324,Jessamyn Manson+1,1730,2000,2,436
+100,BIOL,2200,Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology,12105,115,Laboratory,0,24,Chemistry Bldg Room 326,Asha Krishnakumar+1,1730,2000,2,436
+101,BIOL,2200,Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology,12066,116,Laboratory,0,24,Chemistry Bldg Room 328,Jenny Ding+1,1730,2000,2,436
+102,BIOL,2200,Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology,12106,117,Laboratory,0,24,Chemistry Bldg Room 324,Jessamyn Manson+1,1000,1230,3,436
+103,BIOL,2200,Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology,12067,118,Laboratory,0,24,Chemistry Bldg Room 326,Helen Query+1,1000,1230,3,436
+104,BIOL,2200,Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology,12877,119,Laboratory,0,24,Chemistry Bldg Room 328,Jessamyn Manson+1,1000,1230,3,436
+105,BIOL,2200,Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology,12068,120,Laboratory,0,24,Chemistry Bldg Room 324,Jessamyn Manson+1,1400,1630,3,436
+106,BIOL,2200,Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology,12107,121,Laboratory,0,24,Chemistry Bldg Room 326,Jessamyn Manson+1,1400,1630,3,436
+107,BIOL,2200,Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology,12108,122,Laboratory,0,24,Chemistry Bldg Room 328,Jessamyn Manson+1,1400,1630,3,436
+108,BIOL,2200,Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology,12069,123,Laboratory,0,24,Chemistry Bldg Room 324,Jessamyn Manson+1,1730,2000,3,436
+109,BIOL,2200,Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology,12109,124,Laboratory,0,24,Chemistry Bldg Room 326,Emily Han+1,1730,2000,3,436
+110,BIOL,2200,Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology,12070,125,Laboratory,0,24,Chemistry Bldg Room 328,Jessamyn Manson+1,1730,2000,3,436
+111,BIOL,2200,Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology,12071,126,Laboratory,0,24,Chemistry Bldg Room 324,Christopher Robinson+1,1000,1230,4,436
+112,BIOL,2200,Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology,12110,127,Laboratory,0,24,Chemistry Bldg Room 326,Everett Altherr+1,1000,1230,4,436
+113,BIOL,2200,Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology,12111,128,Laboratory,0,24,Chemistry Bldg Room 328,Jessamyn Manson+1,1000,1230,4,436
+114,BIOL,2200,Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology,12112,129,Laboratory,0,24,Chemistry Bldg Room 324,Christopher Robinson+1,1400,1630,4,436
+115,BIOL,2200,Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology,12132,130,Laboratory,0,24,Chemistry Bldg Room 326,Israel Agorsor+1,1400,1630,4,436
+116,BIOL,2200,Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology,12133,131,Laboratory,0,24,Chemistry Bldg Room 328,Hanna Makowski+1,1400,1630,4,436
+117,BIOL,2200,Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology,12134,132,Laboratory,0,24,Chemistry Bldg Room 324,Jessamyn Manson+1,1730,2000,4,436
+118,BIOL,2200,Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology,12191,133,Laboratory,0,24,Chemistry Bldg Room 326,Israel Agorsor+1,1730,2000,4,436
+119,BIOL,2200,Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology,12199,134,Laboratory,0,24,Chemistry Bldg Room 328,Jessamyn Manson+1,1730,2000,4,436
+120,BIOL,3040,Developmental and Regenerative Biology,18302,101,Discussion,0,99,Wilson Hall 325,Sarah Kucenas,1700,1900,1,440
+121,BIOL,3270,General Microbiology with Laboratory,12372,101,Laboratory,0,16,Chemistry Bldg Room 334,Audrey Brown+1,900,1200,2,444
+122,BIOL,3270,General Microbiology with Laboratory,12373,102,Laboratory,0,16,Chemistry Bldg Room 426,David Kittlesen+1,900,1200,2,444
+123,BIOL,3270,General Microbiology with Laboratory,12374,103,Laboratory,0,16,Chemistry Bldg Room 334,David Kittlesen+1,900,1200,1,444
+124,BIOL,3270,General Microbiology with Laboratory,12375,105,Laboratory,0,16,Chemistry Bldg Room 334,Audrey Brown+1,1400,1700,2,444
+125,BIOL,3270,General Microbiology with Laboratory,12376,106,Laboratory,0,16,Chemistry Bldg Room 426,David Kittlesen+1,1400,1700,2,444
+126,BIOL,3270,General Microbiology with Laboratory,12377,107,Laboratory,0,16,Chemistry Bldg Room 334,David Kittlesen+1,1400,1700,3,444
+127,BIOL,3270,General Microbiology with Laboratory,12378,108,Laboratory,0,16,Chemistry Bldg Room 426,David Kittlesen+1,1400,1700,3,444
+128,BIOL,3270,General Microbiology with Laboratory,12379,109,Laboratory,0,16,Chemistry Bldg Room 426,David Kittlesen+1,1400,1700,1,444
+129,BIOL,3270,General Microbiology with Laboratory,12380,110,Laboratory,0,16,Chemistry Bldg Room 426,David Kittlesen+1,900,1200,1,444
+130,BIOL,3270,General Microbiology with Laboratory,12381,111,Laboratory,0,16,Chemistry Bldg Room 334,Audrey Brown+1,1400,1700,1,444
+131,BIOL,3420,Human Anatomy and Physiology II,12139,103,Laboratory,0,20,Chemistry Bldg Room 246,Mark Kopeny,1400,1700,1,445
+132,BIOL,3420,Human Anatomy and Physiology II,12355,104,Laboratory,0,20,Chemistry Bldg Room 248,Mark Kopeny,1400,1700,1,445
+133,BIOL,3420,Human Anatomy and Physiology II,12140,105,Laboratory,0,20,Chemistry Bldg Room 246,Mark Kopeny,1800,2100,1,445
+134,BIOL,3420,Human Anatomy and Physiology II,12141,106,Laboratory,0,20,Chemistry Bldg Room 248,Mark Kopeny,1800,2100,1,445
+135,BIOL,3420,Human Anatomy and Physiology II,12359,108,Laboratory,0,20,Chemistry Bldg Room 248,Mark Kopeny,900,1200,2,445
+136,BIOL,3420,Human Anatomy and Physiology II,12142,109,Laboratory,0,20,Chemistry Bldg Room 246,Mark Kopeny,1800,2100,2,445
+137,BIOL,3420,Human Anatomy and Physiology II,12143,113,Laboratory,0,20,Chemistry Bldg Room 246,Mark Kopeny,1400,1700,3,445
+138,BIOL,3420,Human Anatomy and Physiology II,12358,114,Laboratory,0,20,Chemistry Bldg Room 248,Mark Kopeny,1400,1700,3,445
+139,BIOL,3420,Human Anatomy and Physiology II,12144,115,Laboratory,0,20,Chemistry Bldg Room 246,Mark Kopeny,1800,2100,3,445
+140,BIOL,3420,Human Anatomy and Physiology II,12357,118,Laboratory,0,20,Chemistry Bldg Room 248,Mark Kopeny,900,1200,4,445
+141,BIOL,3420,Human Anatomy and Physiology II,12145,119,Laboratory,0,20,Chemistry Bldg Room 246,Mark Kopeny,1800,2100,4,445
+142,BIOL,4005,Functional Genomics Laboratory: Disease Mechanisms & Cures,12519,1,Laboratory,3,16,Chemistry Bldg Room 244,Eyleen O'Rourke+1,1430,1520,1,445
+143,BIOL,4040,Laboratory in Cell Biology,12521,101,Laboratory,3,22,Chemistry Bldg Room 334,George Bloom,1500,1800,4,446
+144,BIOL,4040,Laboratory in Cell Biology,12522,102,Laboratory,3,22,Chemistry Bldg Room 426,George Bloom,1500,1800,4,446
+145,CHEM,1420,Introductory College Chemistry II,10063,101,Discussion,0,140,Gilmer Hall 190,Lisa Morkowchuk,1800,1930,1,608
+146,CHEM,1420,Introductory College Chemistry II,12414,102,Discussion,0,140,Gilmer Hall 190,Lisa Morkowchuk,1945,2115,1,608
+147,CHEM,1420,Introductory College Chemistry II,12415,103,Discussion,0,140,Gilmer Hall 190,Lisa Morkowchuk,1800,1930,2,608
+148,CHEM,1420,Introductory College Chemistry II,10064,104,Discussion,0,140,Gilmer Hall 190,Lisa Morkowchuk,1945,2115,2,608
+149,CHEM,1421,Introductory College Chemistry II Laboratory,10801,1,Laboratory,1,24,Chemistry Bldg Room 338,Lisa Morkowchuk,1400,1700,1,614
+150,CHEM,1421,Introductory College Chemistry II Laboratory,10802,2,Laboratory,1,24,Chemistry Bldg 344,Lisa Morkowchuk,1400,1700,1,614
+151,CHEM,1421,Introductory College Chemistry II Laboratory,10803,3,Laboratory,1,24,Chemistry Blds Room 346,Lisa Morkowchuk,1400,1700,1,614
+152,CHEM,1421,Introductory College Chemistry II Laboratory,10804,4,Laboratory,1,24,Chemistry Bldg Room 354,Lisa Morkowchuk,1400,1700,1,614
+153,CHEM,1421,Introductory College Chemistry II Laboratory,10805,5,Laboratory,1,24,Chemistry Building Room 358,Lisa Morkowchuk,1400,1700,1,614
+154,CHEM,1421,Introductory College Chemistry II Laboratory,11657,7,Laboratory,1,24,Chemistry Bldg Room 338,Lisa Morkowchuk,900,1200,2,614
+155,CHEM,1421,Introductory College Chemistry II Laboratory,11655,8,Laboratory,1,24,Chemistry Bldg 344,Lisa Morkowchuk,900,1200,2,614
+156,CHEM,1421,Introductory College Chemistry II Laboratory,10806,9,Laboratory,1,24,Chemistry Blds Room 346,Lisa Morkowchuk,900,1200,2,614
+157,CHEM,1421,Introductory College Chemistry II Laboratory,10807,10,Laboratory,1,24,Chemistry Bldg Room 354,Lisa Morkowchuk,900,1200,2,614
+158,CHEM,1421,Introductory College Chemistry II Laboratory,10808,11,Laboratory,1,24,Chemistry Building Room 358,Lisa Morkowchuk,900,1200,2,614
+159,CHEM,1421,Introductory College Chemistry II Laboratory,10809,13,Laboratory,1,24,Chemistry Bldg Room 338,Lisa Morkowchuk,1400,1700,2,614
+160,CHEM,1421,Introductory College Chemistry II Laboratory,10810,14,Laboratory,1,24,Chemistry Bldg 344,Lisa Morkowchuk,1400,1700,2,614
+161,CHEM,1421,Introductory College Chemistry II Laboratory,10811,15,Laboratory,1,24,Chemistry Blds Room 346,Lisa Morkowchuk,1400,1700,2,614
+162,CHEM,1421,Introductory College Chemistry II Laboratory,10812,16,Laboratory,1,24,Chemistry Bldg Room 354,Lisa Morkowchuk,1400,1700,2,614
+163,CHEM,1421,Introductory College Chemistry II Laboratory,10813,17,Laboratory,1,24,Chemistry Building Room 358,Lisa Morkowchuk,1400,1700,2,614
+164,CHEM,1421,Introductory College Chemistry II Laboratory,10814,18,Laboratory,1,24,Chemistry Bldg Room 338,Lisa Morkowchuk,900,1200,3,614
+165,CHEM,1421,Introductory College Chemistry II Laboratory,10815,19,Laboratory,1,24,Chemistry Bldg 344,Lisa Morkowchuk,900,1200,3,614
+166,CHEM,1421,Introductory College Chemistry II Laboratory,10816,20,Laboratory,1,24,Chemistry Blds Room 346,Lisa Morkowchuk,900,1200,3,614
+167,CHEM,1421,Introductory College Chemistry II Laboratory,10817,21,Laboratory,1,20,Chemistry Bldg Room 354,Lisa Morkowchuk,900,1200,3,614
+168,CHEM,1421,Introductory College Chemistry II Laboratory,10818,22,Laboratory,1,0,Chemistry Building Room 358,Lisa Morkowchuk,900,1200,3,614
+169,CHEM,1421,Introductory College Chemistry II Laboratory,10819,25,Laboratory,1,24,Chemistry Bldg Room 338,Lisa Morkowchuk,1400,1700,3,614
+170,CHEM,1421,Introductory College Chemistry II Laboratory,10820,26,Laboratory,1,24,Chemistry Bldg 344,Lisa Morkowchuk,1400,1700,3,614
+171,CHEM,1421,Introductory College Chemistry II Laboratory,10821,27,Laboratory,1,24,Chemistry Blds Room 346,Lisa Morkowchuk,1400,1700,3,614
+172,CHEM,1421,Introductory College Chemistry II Laboratory,11631,28,Laboratory,1,24,Chemistry Bldg Room 354,Lisa Morkowchuk,1400,1700,3,614
+173,CHEM,1421,Introductory College Chemistry II Laboratory,12493,29,Laboratory,1,24,Chemistry Building Room 358,Lisa Morkowchuk,1400,1700,3,614
+174,CHEM,1421,Introductory College Chemistry II Laboratory,12650,30,Laboratory,1,22,Chemistry Bldg Room 338,Lisa Morkowchuk,900,1200,4,614
+175,CHEM,1421,Introductory College Chemistry II Laboratory,12651,31,Laboratory,1,22,Chemistry Bldg 344,Lisa Morkowchuk,900,1200,4,614
+176,CHEM,1421,Introductory College Chemistry II Laboratory,12652,32,Laboratory,1,22,Chemistry Blds Room 346,Lisa Morkowchuk,900,1200,4,614
+177,CHEM,1421,Introductory College Chemistry II Laboratory,12653,33,Laboratory,1,24,Chemistry Bldg Room 338,Lisa Morkowchuk,1400,1700,4,614
+178,CHEM,1421,Introductory College Chemistry II Laboratory,12654,34,Laboratory,1,24,Chemistry Bldg Room 354,Lisa Morkowchuk,900,1200,4,614
+179,CHEM,1421,Introductory College Chemistry II Laboratory,12655,35,Laboratory,1,24,Chemistry Bldg Room 338,Lisa Morkowchuk,1400,1700,5,614
+180,CHEM,1421,Introductory College Chemistry II Laboratory,12656,36,Laboratory,1,24,Chemistry Blds Room 346,Lisa Morkowchuk,1400,1700,5,614
+181,CHEM,1421,Introductory College Chemistry II Laboratory,12657,37,Laboratory,1,24,Chemistry Bldg Room 354,Lisa Morkowchuk,1400,1700,5,614
+182,CHEM,1421,Introductory College Chemistry II Laboratory,12658,38,Laboratory,1,24,Chemistry Building Room 358,Lisa Morkowchuk,1400,1700,5,614
+183,CHEM,1421,Introductory College Chemistry II Laboratory,20260,39,Laboratory,1,0,Chemistry Building Room 358,Lisa Morkowchuk,1400,1700,4,614
+184,CHEM,1421,Introductory College Chemistry II Laboratory,20393,40,Laboratory,1,24,Chemistry Bldg Room 354,Lisa Morkowchuk,1400,1700,4,614
+185,CHEM,1620,Introductory Chemistry II for Engineers,12351,101,Discussion,0,140,Gilmer Hall 190,Lisa Morkowchuk,1800,1930,1,616
+186,CHEM,1620,Introductory Chemistry II for Engineers,12416,102,Discussion,0,140,Gilmer Hall 190,Lisa Morkowchuk,1945,2115,1,616
+187,CHEM,1620,Introductory Chemistry II for Engineers,12417,103,Discussion,0,140,Gilmer Hall 190,Lisa Morkowchuk,1800,1930,2,616
+188,CHEM,1620,Introductory Chemistry II for Engineers,12353,104,Discussion,0,140,Gilmer Hall 190,Lisa Morkowchuk,1945,2115,2,616
+189,CHEM,1621,Introductory Chemistry II for Engineers Laboratory,11721,1,Laboratory,1,24,Chemistry Bldg Room 354,Lisa Morkowchuk,900,1200,4,622
+190,CHEM,1621,Introductory Chemistry II for Engineers Laboratory,10066,2,Laboratory,1,22,Chemistry Building Room 358,Lisa Morkowchuk,900,1200,4,622
+191,CHEM,1621,Introductory Chemistry II for Engineers Laboratory,11712,3,Laboratory,1,24,Chemistry Bldg 344,Lisa Morkowchuk,1400,1700,4,622
+192,CHEM,1621,Introductory Chemistry II for Engineers Laboratory,11713,4,Laboratory,1,24,Chemistry Blds Room 346,Lisa Morkowchuk,1400,1700,4,622
+193,CHEM,1621,Introductory Chemistry II for Engineers Laboratory,11714,5,Laboratory,1,24,Chemistry Bldg Room 354,Lisa Morkowchuk,1400,1700,4,622
+194,CHEM,1820,Principles of Organic Chemistry (Accelerated),10068,101,Discussion,0,54,Gilmer Hall 141,Laura Serbulea,1530,1730,4,623
+195,CHEM,1821,Principles of Organic Chemistry Laboratory (Accelerated),12817,1,Laboratory,3,15,Gilmer Hall 166,Laura Serbulea,1230,1345,2,623
+196,CHEM,1821,Principles of Organic Chemistry Laboratory (Accelerated),10069,2,Laboratory,3,18,Gilmer Hall 166,Laura Serbulea,1230,1345,2,623
+197,CHEM,1821,Principles of Organic Chemistry Laboratory (Accelerated),13437,3,Laboratory,3,15,Gilmer Hall 166,Laura Serbulea,1230,1345,2,623
+198,CHEM,2321,Organic Chem Lab II for Non-Chemistry Majors/Minors,11748,101,Laboratory,1,48,Chemistry Bldg Room 444,Kevin Welch,900,1200,1,623
+199,CHEM,2321,Organic Chem Lab II for Non-Chemistry Majors/Minors,11749,102,Laboratory,1,48,Chemistry Bldg Room 444,Kevin Welch,1400,1700,1,623
+200,CHEM,2321,Organic Chem Lab II for Non-Chemistry Majors/Minors,11750,103,Laboratory,1,48,Chemistry Bldg Room 444,Kevin Welch,900,1200,2,623
+201,CHEM,2321,Organic Chem Lab II for Non-Chemistry Majors/Minors,11751,104,Laboratory,1,48,Chemistry Bldg Room 444,Kevin Welch,1400,1700,2,623
+202,CHEM,2321,Organic Chem Lab II for Non-Chemistry Majors/Minors,13438,105,Laboratory,1,48,Chemistry Bldg Room 444,Kevin Welch,900,1200,3,623
+203,CHEM,2321,Organic Chem Lab II for Non-Chemistry Majors/Minors,12659,106,Laboratory,1,48,Chemistry Bldg Room 444,Kevin Welch,1400,1700,3,623
+204,CHEM,2321,Organic Chem Lab II for Non-Chemistry Majors/Minors,13439,107,Laboratory,1,48,Chemistry Bldg Room 444,Kevin Welch,900,1200,4,623
+205,CHEM,2321,Organic Chem Lab II for Non-Chemistry Majors/Minors,13440,108,Laboratory,1,48,Chemistry Bldg Room 444,Kevin Welch,1400,1700,4,623
+206,CHEM,2321,Organic Chem Lab II for Non-Chemistry Majors/Minors,13442,110,Laboratory,1,48,Chemistry Bldg Room 444,Kevin Welch,1400,1700,5,623
+207,CHEM,2321,Organic Chem Lab II for Non-Chemistry Majors/Minors,13719,111,Laboratory,1,48,Chemistry Bldg Room 446,Kevin Welch,1400,1700,1,623
+208,CHEM,2321,Organic Chem Lab II for Non-Chemistry Majors/Minors,13720,112,Laboratory,1,48,Chemistry Bldg Room 446,Kevin Welch,1400,1700,2,623
+209,CHEM,2321,Organic Chem Lab II for Non-Chemistry Majors/Minors,13742,114,Laboratory,1,48,Chemistry Bldg Room 446,Kevin Welch,900,1200,4,623
+210,CHEM,2321,Organic Chem Lab II for Non-Chemistry Majors/Minors,13743,115,Laboratory,1,48,Chemistry Bldg Room 446,Kevin Welch,1400,1700,4,623
+211,CHEM,2321,Organic Chem Lab II for Non-Chemistry Majors/Minors,20229,116,Laboratory,1,48,Chemistry Bldg Room 446,Kevin Welch,1400,1700,3,623
+212,CHEM,2420,Organic Chemistry II,10073,101,Discussion,0,360,Chemistry Bldg 402,Alicia Frantz,1830,2030,2,624
+213,CHEM,2420,Organic Chemistry II,19508,204,Discussion,0,200,Clark Hall 108,Staff,1830,2030,3,625
+214,CHEM,2420,Organic Chemistry II,20261,205,Discussion,0,163,Clark Hall 108,Staff,1830,2030,2,625
+215,CHEM,2420,Organic Chemistry II,19505,304,Discussion,0,200,Clark Hall 108,Staff,1830,2030,3,626
+216,CHEM,2420,Organic Chemistry II,20262,305,Discussion,0,163,Clark Hall 108,Staff,1830,2030,2,626
+217,CHEM,2420,Organic Chemistry II,19741,401,Discussion,0,40,Maury Hall 115,Cassandra Fraser,1900,2100,2,627
+218,CHEM,2420,Organic Chemistry II,12661,601,Discussion,0,200,Physics Bldg 203,Alicia Frantz,1830,2030,2,628
+219,CHEM,2421,Organic Chemistry II Laboratory,17943,201,Laboratory,0,18,Chemistry Bldg Room 454,Donald Hunt,1400,1800,1,629
+220,CHEM,2421,Organic Chemistry II Laboratory,17944,301,Laboratory,0,18,Chemistry Bldg Room 454,Donald Hunt,900,1300,2,630
+221,CHEM,2421,Organic Chemistry II Laboratory,17945,401,Laboratory,0,18,Chemistry Bldg Room 454,Donald Hunt,1400,1800,2,631
+222,CHEM,2421,Organic Chemistry II Laboratory,17946,501,Laboratory,0,18,Chemistry Bldg Room 454,Donald Hunt,1400,1800,3,632
+223,CHEM,2421,Organic Chemistry II Laboratory,17948,601,Laboratory,0,18,Chemistry Bldg Room 454,Donald Hunt,900,1300,4,633
+224,CHEM,2421,Organic Chemistry II Laboratory,20410,701,Laboratory,0,18,Chemistry Bldg Room 454,Donald Hunt,1400,1800,4,634
+225,CHEM,2820,Principles of Chemical Thermodynamics and Kinetics (Accelerated),10076,101,Discussion,0,40,Gilmer Hall 166,Kevin Welch,1900,2200,2,635
+226,CHEM,3420,Physical Chemistry - Thermodynamics,11989,101,Discussion,0,100,Physics Bldg 204,Staff,1800,1930,1,636
+227,CHEM,3420,Physical Chemistry - Thermodynamics,12096,201,Discussion,0,60,Dell 1 105,Staff,1800,1930,2,636
+228,CHEM,4421,Biological Chemistry Laboratory II,10085,101,Laboratory,0,18,Chemistry Bldg 424,Carol Price,1400,1800,1,644
+229,CHEM,4421,Biological Chemistry Laboratory II,10086,102,Laboratory,0,18,Chemistry Bldg 424,Carol Price,1400,1800,2,644
+230,CHEM,4421,Biological Chemistry Laboratory II,10083,103,Laboratory,0,18,Chemistry Bldg 424,Carol Price,1400,1800,3,644
+231,CHEM,4421,Biological Chemistry Laboratory II,12711,104,Laboratory,0,18,Chemistry Bldg 424,Carol Price,1400,1800,4,644
+232,CHEM,4559,New Course in Chemistry,17931,102,Laboratory,0,12,Chemistry Bldg 458,Robert Gilliard,1400,1700,4,645
+233,CLAS,2020,Roman Civilization,11348,101,Discussion,0,20,Ruffner Hall 175,Matthew Pincus,1000,1050,5,694
+234,CLAS,2020,Roman Civilization,11450,102,Discussion,0,20,Physics Bldg 218,Matthew Pincus,1100,1150,5,694
+235,CLAS,2020,Roman Civilization,11349,103,Discussion,0,20,New Cabell Hall 407,Jovan Cvjeticanin,1500,1550,5,694
+236,CLAS,2020,Roman Civilization,11350,104,Discussion,0,20,New Cabell Hall 338,Jovan Cvjeticanin,1400,1450,5,694
+237,CLAS,2040,Greek Mythology,10102,101,Discussion,0,15,Gilmer Hall 225,Evan Brubaker,830,920,4,695
+238,CLAS,2040,Greek Mythology,10103,102,Discussion,0,15,Dell 1 104,Harry Crusemire,830,920,4,695
+239,CLAS,2040,Greek Mythology,10106,103,Discussion,0,15,Dell 1 104,Harry Crusemire,930,1020,4,695
+240,CLAS,2040,Greek Mythology,10104,104,Discussion,0,15,Gilmer Hall 225,Evan Brubaker,930,1020,4,695
+241,CLAS,2040,Greek Mythology,10105,105,Discussion,0,15,Shannon House 109,Nina Raby,1400,1450,4,695
+242,CLAS,2040,Greek Mythology,12349,106,Discussion,0,15,New Cabell Hall 042,Harry Crusemire,900,950,5,695
+243,CLAS,2040,Greek Mythology,10610,107,Discussion,0,15,Physics Bldg 218,Nina Raby,900,950,5,695
+244,CLAS,2040,Greek Mythology,11451,108,Discussion,0,15,Dell 2 100,Nina Raby,1000,1050,5,695
+245,CLAS,2040,Greek Mythology,10611,109,Discussion,0,15,Cocke Hall 115,Evan Brubaker,1200,1250,5,695
+246,CLAS,2040,Greek Mythology,18436,110,Discussion,0,15,New Cabell Hall 415,Joseph Zehner,1300,1350,5,695
+247,CLAS,2040,Greek Mythology,18437,111,Discussion,0,15,Cocke Hall 101,Joseph Zehner,1400,1450,5,695
+248,CLAS,2040,Greek Mythology,18438,112,Discussion,0,15,New Cabell Hall 287,Joseph Zehner,1500,1550,5,695
+249,GREE,1020,Elementary Greek,10231,101,Discussion,0,20,Brooks Hall 103,Christina Boltsi,930,1045,"2, 4",701
+250,GREE,1020,Elementary Greek,10232,102,Discussion,0,20,Gilmer Hall 225,Stephen Hill,1230,1345,"2, 4",701
+251,LATI,1020,Elementary Latin II,10265,101,Discussion,0,9,Cocke Hall B014,Alison Newman,930,1045,"2, 4",714
+252,LATI,1020,Elementary Latin II,10266,102,Discussion,0,20,Dell 2 102,William Stover,1100,1215,"2, 4",714
+253,LATI,1020,Elementary Latin II,10267,103,Discussion,0,20,Maury Hall 110,Michael Fons,1230,1345,"2, 4",714
+254,DANC,2430,Production Laboratory: Dance,12149,1,Laboratory,1,30,TBA,Kim Mata,TBA,TBA,TBA,739
+255,DRAM,2130,Production Laboratory: Lighting,19518,1,Laboratory,1,5,Culbreth Theatre,Lauren Duffie+1,1400,1700,1,759
+256,DRAM,2130,Production Laboratory: Lighting,13365,2,Laboratory,1,5,a Education Bldg 220,Lauren Duffie+1,1400,500pmDr,2,759
+257,DRAM,2130,Production Laboratory: Lighting,19519,3,Laboratory,1,5,Culbreth Theatre,Justin Poruban+1,1400,1700,3,759
+258,DRAM,2130,Production Laboratory: Lighting,13366,4,Laboratory,1,5,a Education Bldg 220,Justin Poruban+1,1400,500pmDr,4,759
+259,DRAM,2130,Production Laboratory: Lighting,10109,5,Laboratory,1,5,TBA,Julie Briski+1,TBA,TBA,TBA,759
+260,DRAM,2231,Production Lab: Run Crew,12783,1,Laboratory,1,15,TBA,Holly McLeod,TBA,TBA,TBA,764
+261,DRAM,2232,Production Lab: Scene Painting,12172,1,Laboratory,1,5,Contact Department,Batul Rizvi,1400,1700,1,764
+262,DRAM,2232,Production Lab: Scene Painting,12879,2,Laboratory,1,5,Contact Department,Batul Rizvi,1400,1700,2,764
+263,DRAM,2232,Production Lab: Scene Painting,12880,3,Laboratory,1,5,Contact Department,Batul Rizvi,1400,1700,3,764
+264,DRAM,2232,Production Lab: Scene Painting,12881,4,Laboratory,1,5,Contact Department,Batul Rizvi,1400,1700,4,764
+265,DRAM,2232,Production Lab: Scene Painting,19707,5,Laboratory,1,5,TBA,Batul Rizvi,TBA,TBA,TBA,764
+266,DRAM,2330,Production Laboratory: Costume and Makeup,10112,1,Laboratory,1,5,TBA,Kathleen Stomps+1,TBA,TBA,1,766
+267,DRAM,2330,Production Laboratory: Costume and Makeup,13367,2,Laboratory,1,5,a Education Bldg B011,Katherine Stefl+1,1400,500pmDr,2,766
+268,DRAM,2330,Production Laboratory: Costume and Makeup,10113,3,Laboratory,1,5,a Education Bldg B011,Kathleen Stomps+1,1400,500pmDr,3,766
+269,DRAM,2330,Production Laboratory: Costume and Makeup,13368,4,Laboratory,1,5,a Education Bldg B011,Katherine Stefl+1,1400,500pmDr,4,766
+270,DRAM,2330,Production Laboratory: Costume and Makeup,10114,5,Laboratory,1,5,a Education Bldg B011,Cee-Cee Swalling+1,1400,500pmDr,5,766
+271,DRAM,2330,Production Laboratory: Costume and Makeup,13369,6,Laboratory,1,5,TBA,Cee-Cee Swalling+1,1400,1700,TBA,766
+272,DRAM,2430,Production Laboratory: Acting,11591,1,Laboratory,1,20,TBA,Dave Dalton,TBA,TBA,TBA,766
+273,DRAM,2430,Production Laboratory: Acting,12867,3,Laboratory,1,20,TBA,Marianne Kubik,TBA,TBA,TBA,766
+274,DRAM,2430,Production Laboratory: Acting,13362,4,Laboratory,1,20,TBA,Doug Grissom,TBA,TBA,TBA,766
+275,DRAM,2830,Production Lab: Digital Media,19524,1,Laboratory,1,5,TBA,Eamonn Farrell,TBA,TBA,TBA,768
+276,DRAM,2840,Design Studio Lab,13978,1,Laboratory,1,5,TBA,Mona Kasra,TBA,TBA,TBA,768
+277,DRAM,3653,Production Laboratory: Stage Management,12200,1,Laboratory,1,15,TBA,Holly McLeod,TBA,TBA,TBA,775
+278,DRAM,3653,Production Laboratory: Stage Management,11742,2,Laboratory,1,15,TBA,Holly McLeod,TBA,TBA,TBA,775
+279,DRAM,4590,Special Topics in Theatre,13512,1,Laboratory,1,11,TBA,Doug Grissom+1,TBA,TBA,TBA,778
+280,DRAM,4590,Special Topics in Theatre,13513,2,Laboratory,1,30,TBA,Theresa Davis,TBA,TBA,TBA,778
+281,DRAM,4598,Special Topics in Design Technology,19529,1,Laboratory,1,5,TBA,Steven Warner,TBA,TBA,TBA,781
+282,DRAM,9060,Thesis,13382,1,Discussion,3,5,TBA,Marcy Linton,TBA,TBA,TBA,796
+283,DRAM,9060,Thesis,13386,2,Discussion,3,8,TBA,R. Kennedy,930,1100,"1, 3",796
+284,DRAM,9140,Production Laboratory: Lighting,19533,1,Laboratory,3,3,TBA,R. Kennedy,TBA,TBA,TBA,796
+285,DRAM,9340,Production Laboratory: Costume,19535,1,Laboratory,3,3,TBA,Marcy Linton,TBA,TBA,TBA,797
+286,ECON,2010,Principles of Economics: Microeconomics,11766,110,Discussion,0,25,New Cabell Hall 032,Cassidy Fritz,1900,1950,4,869
+287,ECON,2010,Principles of Economics: Microeconomics,11767,111,Discussion,0,25,New Cabell Hall 032,Cassidy Fritz,1700,1750,4,869
+288,ECON,2010,Principles of Economics: Microeconomics,11768,112,Discussion,0,25,New Cabell Hall 032,Brandon Warren,1800,1850,4,869
+289,ECON,2010,Principles of Economics: Microeconomics,11769,113,Discussion,0,25,Ruffner Hall 177,Brett Fischer,1000,1050,5,869
+290,ECON,2010,Principles of Economics: Microeconomics,11770,114,Discussion,0,25,Ruffner Hall 177,Brett Fischer,1200,1250,5,869
+291,ECON,2010,Principles of Economics: Microeconomics,11771,116,Discussion,0,25,Ruffner Hall 177,Brett Fischer,1100,1150,5,869
+292,ECON,2010,Principles of Economics: Microeconomics,12465,117,Discussion,0,25,New Cabell Hall 168,Annie Bird,1800,1850,3,869
+293,ECON,2010,Principles of Economics: Microeconomics,12466,118,Discussion,0,25,Maury Hall 110,Rachel Lee,2000,2050,3,869
+294,ECON,2010,Principles of Economics: Microeconomics,12692,119,Discussion,0,25,New Cabell Hall 168,Annie Bird,1900,1950,3,869
+295,ECON,2010,Principles of Economics: Microeconomics,19638,120,Discussion,0,25,Maury Hall 110,Rachel Lee,1800,1850,3,869
+296,ECON,2010,Principles of Economics: Microeconomics,19639,121,Discussion,0,25,Maury Hall 110,Rachel Lee,1900,1950,3,869
+297,ECON,2010,Principles of Economics: Microeconomics,19640,122,Discussion,0,25,Maury Hall 110,Brandon Warren,1700,1750,4,869
+298,ECON,2010,Principles of Economics: Microeconomics,12279,201,Discussion,0,25,New Cabell Hall 032,Yiduo Liu,800,850,5,870
+299,ECON,2010,Principles of Economics: Microeconomics,12280,202,Discussion,0,25,New Cabell Hall 032,Yiduo Liu,900,950,5,870
+300,ECON,2010,Principles of Economics: Microeconomics,12281,203,Discussion,0,25,New Cabell Hall 032,Spencer Kennedy,1000,1050,5,870
+301,ECON,2010,Principles of Economics: Microeconomics,12282,204,Discussion,0,25,New Cabell Hall 309,Paige Singer,1000,1050,5,870
+302,ECON,2010,Principles of Economics: Microeconomics,12283,205,Discussion,0,25,New Cabell Hall 309,Paige Singer,1100,1150,5,870
+303,ECON,2010,Principles of Economics: Microeconomics,12284,206,Discussion,0,25,New Cabell Hall 309,Spencer Kennedy,1200,1250,5,870
+304,ECON,2010,Principles of Economics: Microeconomics,20580,207,Discussion,0,25,New Cabell Hall 309,Richard Song,1300,1350,5,870
+305,ECON,2010,Principles of Economics: Microeconomics,20581,208,Discussion,0,25,New Cabell Hall 309,Richard Song,1400,1450,5,870
+306,ECON,2020,Principles of Economics: Macroeconomics,11787,100,Discussion,0,18,New Cabell Hall 027,Julia Kothmann,830,920,2,872
+307,ECON,2020,Principles of Economics: Macroeconomics,11788,101,Discussion,0,18,Monroe Hall 114,Julia Kothmann,1700,1750,1,872
+308,ECON,2020,Principles of Economics: Macroeconomics,11789,102,Discussion,0,18,New Cabell Hall 315,Luan Falcao Daniel Santos,1400,1450,5,872
+309,ECON,2020,Principles of Economics: Macroeconomics,11790,103,Discussion,0,18,Monroe Hall 114,Quinn Hermann,2000,2050,4,872
+310,ECON,2020,Principles of Economics: Macroeconomics,11791,104,Discussion,0,18,Wilson Hall 214,Kevin Miner,830,920,2,872
+311,ECON,2020,Principles of Economics: Macroeconomics,11792,105,Discussion,0,18,New Cabell Hall 303,Wuxin Zeng,900,950,5,872
+312,ECON,2020,Principles of Economics: Macroeconomics,11793,106,Discussion,0,18,New Cabell Hall 485,Maggie Isaacson,1800,1850,1,872
+313,ECON,2020,Principles of Economics: Macroeconomics,11794,107,Discussion,0,18,New Cabell Hall 303,Jessica Canada,1800,1850,4,872
+314,ECON,2020,Principles of Economics: Macroeconomics,11795,108,Discussion,0,18,Monroe Hall 114,Yuyao Song,900,950,5,872
+315,ECON,2020,Principles of Economics: Macroeconomics,11796,109,Discussion,0,18,New Cabell Hall 383,Jacob Shapero,1800,1850,1,872
+316,ECON,2020,Principles of Economics: Macroeconomics,11797,110,Discussion,0,18,Monroe Hall 114,Daniel Nakasone,1400,1450,1,872
+317,ECON,2020,Principles of Economics: Macroeconomics,11798,111,Discussion,0,18,New Cabell Hall 395,Kevin Miner,1400,1450,5,872
+318,ECON,2020,Principles of Economics: Macroeconomics,11799,112,Discussion,0,18,New Cabell Hall 027,Joseph Rilling,1800,1850,4,872
+319,ECON,2020,Principles of Economics: Macroeconomics,11801,114,Discussion,0,18,New Cabell Hall 338,Maggie Isaacson,1900,1950,1,872
+320,ECON,2020,Principles of Economics: Macroeconomics,11802,115,Discussion,0,18,New Cabell Hall 303,Madison Smither,1400,1450,5,872
+321,ECON,2020,Principles of Economics: Macroeconomics,12188,118,Discussion,0,18,Monroe Hall 114,Jessica Canada,800,850,5,872
+322,ECON,2020,Principles of Economics: Macroeconomics,11803,119,Discussion,0,18,Monroe Hall 114,Jessica Canada,2000,2050,1,872
+323,ECON,2020,Principles of Economics: Macroeconomics,11804,120,Discussion,0,18,Monroe Hall 114,Daniel Harper,830,920,2,872
+324,ECON,2020,Principles of Economics: Macroeconomics,11805,121,Discussion,0,18,New Cabell Hall 303,Dalton Ruh,800,850,1,872
+325,ECON,2020,Principles of Economics: Macroeconomics,11806,122,Discussion,0,18,Bryan Hall 330,Matty Ducker,1700,1750,1,872
+326,ECON,2020,Principles of Economics: Macroeconomics,11807,124,Discussion,0,18,New Cabell Hall 027,Josh Hurwitz,1700,1750,1,872
+327,ECON,2020,Principles of Economics: Macroeconomics,11808,125,Discussion,0,18,Cocke Hall 115,MD Amzad Hossain,1800,1850,1,872
+328,ECON,2020,Principles of Economics: Macroeconomics,11809,126,Discussion,0,18,New Cabell Hall 303,Josh Hurwitz,1600,1650,1,872
+329,ECON,2020,Principles of Economics: Macroeconomics,11810,127,Discussion,0,18,New Cabell Hall 315,Dalton Ruh,1900,1950,1,872
+330,ECON,2020,Principles of Economics: Macroeconomics,11811,128,Discussion,0,18,Monroe Hall 114,Luan Falcao Daniel Santos,1700,1750,4,872
+331,ECON,2020,Principles of Economics: Macroeconomics,11812,129,Discussion,0,18,Wilson Hall 214,Grace Toufeili,1500,1550,5,872
+332,ECON,2020,Principles of Economics: Macroeconomics,11813,130,Discussion,0,18,New Cabell Hall 027,Wuxin Zeng,1400,1450,5,872
+333,ECON,2020,Principles of Economics: Macroeconomics,11814,131,Discussion,0,18,New Cabell Hall 364,Anthony Del Rosso,1800,1850,1,872
+334,ECON,2020,Principles of Economics: Macroeconomics,11815,132,Discussion,0,18,Cocke Hall 115,Neil Mathur,1700,1750,1,872
+335,ECON,2020,Principles of Economics: Macroeconomics,11816,133,Discussion,0,18,New Cabell Hall 395,Jacob Shapero,1900,1950,1,872
+336,ECON,2020,Principles of Economics: Macroeconomics,11817,135,Discussion,0,18,New Cabell Hall 485,MD Amzad Hossain,1700,1750,1,872
+337,ECON,2020,Principles of Economics: Macroeconomics,11818,136,Discussion,0,18,New Cabell Hall 027,Neil Mathur,1900,1950,1,872
+338,ECON,2020,Principles of Economics: Macroeconomics,11819,137,Discussion,0,18,Monroe Hall 114,Christopher Oliveira,1800,1850,1,872
+339,ECON,2020,Principles of Economics: Macroeconomics,11820,138,Discussion,0,18,Wilson Hall 214,Grace Toufeili,1400,1450,5,872
+340,ECON,2020,Principles of Economics: Macroeconomics,11821,139,Discussion,0,18,Monroe Hall 114,Braedon Kehoe,1800,1850,4,872
+341,ECON,2020,Principles of Economics: Macroeconomics,11822,142,Discussion,0,18,Monroe Hall 114,Madison Smither,1900,1950,4,872
+342,ECON,2020,Principles of Economics: Macroeconomics,11823,144,Discussion,0,18,Monroe Hall 114,Braedon Kehoe,1900,1950,1,872
+343,ECON,2020,Principles of Economics: Macroeconomics,11824,145,Discussion,0,18,New Cabell Hall 485,Anthony Del Rosso,1800,1850,4,872
+344,ECON,2020,Principles of Economics: Macroeconomics,11825,146,Discussion,0,18,Nau Hall 242,Matty Ducker,1600,1650,1,872
+345,ECON,2020,Principles of Economics: Macroeconomics,11826,147,Discussion,0,18,Physics Bldg 218,Luan Falcao Daniel Santos,1200,1250,5,872
+346,ECON,2020,Principles of Economics: Macroeconomics,11827,148,Discussion,0,18,Monroe Hall 114,Grace Toufeili,1200,1250,5,872
+347,ECON,2020,Principles of Economics: Macroeconomics,11828,150,Discussion,0,18,Monroe Hall 114,Rutva Shah,1300,1350,1,872
+348,ECON,2020,Principles of Economics: Macroeconomics,11829,151,Discussion,0,15,New Cabell Hall 042,Yuyao Song,830,920,2,872
+349,ECON,2020,Principles of Economics: Macroeconomics,19836,154,Discussion,0,18,New Cabell Hall 168,Joseph Rilling,1700,1750,4,872
+350,ECON,2020,Principles of Economics: Macroeconomics,19837,155,Discussion,0,18,New Cabell Hall 132,Yuyao Song,1700,1750,4,872
+351,ECON,2020,Principles of Economics: Macroeconomics,19838,156,Discussion,0,18,Dell 2 102,Daniel Nakasone,800,850,1,872
+352,ECON,2020,Principles of Economics: Macroeconomics,19839,157,Discussion,0,18,Cocke Hall 115,Christopher Oliveira,800,850,1,872
+353,ECON,2020,Principles of Economics: Macroeconomics,19841,158,Discussion,0,18,Dell 2 102,MD Amzad Hossain,830,920,2,872
+354,ECON,2020,Principles of Economics: Macroeconomics,19842,159,Discussion,0,18,Dell 2 101,Rutva Shah,1900,1950,1,872
+355,ECON,2020,Principles of Economics: Macroeconomics,19843,160,Discussion,0,18,Dell 2 102,Quinn Hermann,1900,1950,1,872
+356,ECON,3010,Intermediate Microeconomics,10121,101,Discussion,0,30,Gibson Hall 141,Staff,1600,1650,4,874
+357,ECON,3010,Intermediate Microeconomics,10122,102,Discussion,0,30,New Cabell Hall 364,Staff,1700,1750,4,874
+358,ECON,3010,Intermediate Microeconomics,10123,103,Discussion,0,30,Maury Hall 113,Staff,1800,1850,4,874
+359,ECON,3010,Intermediate Microeconomics,10124,104,Discussion,0,30,Wilson Hall 214,Staff,1800,1850,4,874
+360,ECON,3010,Intermediate Microeconomics,10616,105,Discussion,0,30,Wilson Hall 214,Staff,1900,1950,4,874
+361,ECON,3010,Intermediate Microeconomics,10617,106,Discussion,0,30,Wilson Hall 214,Staff,2000,2050,4,874
+362,ECON,3010,Intermediate Microeconomics,13308,202,Discussion,0,30,Maury Hall 110,Staff,1000,1050,5,876
+363,ECON,3010,Intermediate Microeconomics,13309,203,Discussion,0,30,Maury Hall 110,Staff,1100,1150,5,876
+364,ECON,3010,Intermediate Microeconomics,13310,204,Discussion,0,30,Maury Hall 110,Staff,900,950,5,876
+365,ECON,3010,Intermediate Microeconomics,13311,205,Discussion,0,30,Maury Hall 110,Staff,800,850,5,876
+366,ECON,3010,Intermediate Microeconomics,13312,206,Discussion,0,30,Maury Hall 110,Staff,1300,1350,5,876
+367,ECON,3010,Intermediate Microeconomics,13313,207,Discussion,0,30,Maury Hall 110,Staff,1200,1250,5,876
+368,ECON,3020,Intermediate Macroeconomics,12448,701,Discussion,0,26,New Cabell Hall 232,Seunghyeon Lee,1700,1750,2,879
+369,ECON,3020,Intermediate Macroeconomics,12449,702,Discussion,0,26,New Cabell Hall 232,Seunghyeon Lee,1800,1850,2,879
+370,ECON,3020,Intermediate Macroeconomics,12450,703,Discussion,0,26,Monroe Hall 118,Jiafeng Wu,1900,1950,2,879
+371,ECON,3020,Intermediate Macroeconomics,20058,704,Discussion,0,26,Physics Bldg 218,Gizem Kutlu,1800,1850,3,879
+372,ECON,3020,Intermediate Macroeconomics,20059,705,Discussion,0,26,Physics Bldg 218,Gizem Kutlu,1900,1950,3,879
+373,ECON,3020,Intermediate Macroeconomics,20060,706,Discussion,0,26,Physics Bldg 218,Tingrui Feng,2000,2050,3,879
+374,ECON,3020,Intermediate Macroeconomics,18916,707,Discussion,0,26,Monroe Hall 116,Jiafeng Wu,1800,1850,2,879
+375,ECON,3020,Intermediate Macroeconomics,18917,708,Discussion,0,26,Monroe Hall 111,Joaquin Saldain,1900,1950,2,879
+376,ECON,3020,Intermediate Macroeconomics,18918,709,Discussion,0,26,Monroe Hall 111,Joaquin Saldain,2000,2050,2,879
+377,ECON,3020,Intermediate Macroeconomics,18920,710,Discussion,0,26,New Cabell Hall 232,Yan Chen,1700,1750,3,879
+378,ECON,3020,Intermediate Macroeconomics,18921,711,Discussion,0,26,New Cabell Hall 232,Yan Chen,1800,1850,3,879
+379,ECON,3020,Intermediate Macroeconomics,18922,712,Discussion,0,26,New Cabell Hall 232,Tingrui Feng,1900,1950,3,879
+380,ECON,3030,Money and Banking,13315,110,Discussion,0,26,New Cabell Hall 323,Jaeho Lee,1700,1750,3,880
+381,ECON,3030,Money and Banking,13316,111,Discussion,0,26,New Cabell Hall 323,Jaeho Lee,1800,1850,3,880
+382,ECON,3030,Money and Banking,13317,112,Discussion,0,26,New Cabell Hall 323,Jaeho Lee,1900,1950,3,880
+383,ECON,3030,Money and Banking,18924,201,Discussion,0,26,New Cabell Hall 309,Dengli Yang,1700,1750,4,881
+384,ECON,3030,Money and Banking,18925,202,Discussion,0,26,New Cabell Hall 309,Dengli Yang,1800,1850,4,881
+385,ECON,3720,Introduction to Econometrics,10132,101,Discussion,0,17,New Cabell Hall 268,Yooseon Hwang,1800,1850,4,887
+386,ECON,3720,Introduction to Econometrics,10131,102,Discussion,0,17,New Cabell Hall 068,Yooseon Hwang,1900,1950,4,887
+387,ECON,3720,Introduction to Econometrics,10130,103,Discussion,0,17,New Cabell Hall 068,Yooseon Hwang,2000,2050,4,887
+388,ECON,3720,Introduction to Econometrics,12694,104,Discussion,0,17,New Cabell Hall 268,Staff,1700,1750,4,887
+389,ECON,3720,Introduction to Econometrics,12695,105,Discussion,0,17,Mechanical Engr Bldg 214,Staff,900,950,5,887
+390,ECON,3720,Introduction to Econometrics,12912,106,Discussion,0,17,Mechanical Engr Bldg 214,Taheya Tarannum,1000,1050,5,887
+391,ECON,3720,Introduction to Econometrics,13321,107,Discussion,0,17,Mechanical Engr Bldg 214,Taheya Tarannum,1100,1150,5,887
+392,ECON,3720,Introduction to Econometrics,13322,108,Discussion,0,17,Mechanical Engr Bldg 214,Taheya Tarannum,1200,1250,5,887
+393,ECON,3720,Introduction to Econometrics,11782,301,Discussion,0,29,New Cabell Hall 032,Yiyu Xing,1800,1850,3,888
+394,ECON,3720,Introduction to Econometrics,11628,302,Discussion,0,29,New Cabell Hall 032,William Chenault,1900,1950,3,888
+395,ECON,3720,Introduction to Econometrics,11741,303,Discussion,0,29,New Cabell Hall 032,William Chenault,2000,2050,3,888
+396,ECON,3720,Introduction to Econometrics,12696,501,Discussion,0,29,Wilson Hall 238,Staff,1800,1850,4,889
+397,ECON,3720,Introduction to Econometrics,12697,502,Discussion,0,29,Wilson Hall 238,Staff,1900,1950,4,889
+398,ECON,3720,Introduction to Econometrics,12698,503,Discussion,0,29,Wilson Hall 238,Yiyu Xing,2000,2050,4,889
+399,ECON,4170,"The Economics of Risk, Uncertainty, and Information",19972,101,Discussion,0,20,Dell 2 101,Yutong Chen,1800,1850,4,893
+400,ECON,4170,"The Economics of Risk, Uncertainty, and Information",19974,102,Discussion,0,20,Dell 2 101,Yutong Chen,1900,1950,4,893
+401,ECON,4170,"The Economics of Risk, Uncertainty, and Information",19975,103,Discussion,0,20,Dell 2 101,Yutong Chen,2000,2050,4,893
+402,ECON,4170,"The Economics of Risk, Uncertainty, and Information",19977,104,Discussion,0,20,Monroe Hall 111,Hanna Charankevich,1300,1350,5,893
+403,ECON,4170,"The Economics of Risk, Uncertainty, and Information",19983,105,Discussion,0,20,Monroe Hall 111,Hanna Charankevich,1400,1450,5,893
+404,ECON,4170,"The Economics of Risk, Uncertainty, and Information",20099,106,Discussion,0,20,Monroe Hall 111,Hanna Charankevich,1200,1250,5,893
+405,ECON,4350,Corporate Finance,19499,101,Discussion,0,25,Dell 2 102,Tyler Wake,1800,1850,3,897
+406,ECON,4350,Corporate Finance,19500,102,Discussion,0,25,Dell 2 102,Tyler Wake,1900,1950,3,897
+407,ECON,4350,Corporate Finance,19501,103,Discussion,0,25,Dell 2 102,Tyler Wake,2000,2050,3,897
+408,ECON,4365,Global Financial Markets,18945,101,Discussion,0,34,New Cabell Hall 323,Diego Legal Canisa,1100,1150,5,900
+409,ECON,4365,Global Financial Markets,18947,102,Discussion,0,34,New Cabell Hall 323,Diego Legal Canisa,1200,1250,5,900
+410,ECON,4365,Global Financial Markets,18949,103,Discussion,0,34,New Cabell Hall 323,Diego Legal Canisa,1300,1350,5,900
+411,ECON,4440,Economic Inequality,18951,101,Discussion,0,21,New Cabell Hall 364,Ishita Gambhir,900,950,5,902
+412,ECON,4440,Economic Inequality,18952,102,Discussion,0,21,New Cabell Hall 364,Ishita Gambhir,1000,1050,5,902
+413,ECON,4444,Artificial Intelligence and the Future of Work,20018,101,Discussion,0,20,New Cabell Hall 058,Miguel Mascarua,1700,1750,3,903
+414,ECON,4444,Artificial Intelligence and the Future of Work,20019,102,Discussion,0,20,New Cabell Hall 058,Miguel Mascarua,1800,1850,3,903
+415,ECON,4444,Artificial Intelligence and the Future of Work,20020,103,Discussion,0,20,New Cabell Hall 058,Miguel Mascarua,1900,1950,3,903
+416,ECON,4559,New Course in Economics,19716,101,Discussion,0,20,Wilson Hall 244,Staff,900,950,5,905
+417,ECON,4559,New Course in Economics,19717,102,Discussion,0,20,Wilson Hall 244,Staff,1000,1050,5,905
+418,ECON,4610,Economic Development,12286,101,Discussion,0,25,New Cabell Hall 389,Divya Pandey,1700,1750,3,906
+419,ECON,4610,Economic Development,12287,102,Discussion,0,25,New Cabell Hall 364,Divya Pandey,1800,1850,3,906
+420,ECON,4720,Econometric Methods,13326,101,Discussion,0,25,Wilson Hall 238,Emily Cook,800,850,5,908
+421,ECON,4720,Econometric Methods,13327,102,Discussion,0,25,Wilson Hall 238,Emily Cook,900,950,5,908
+422,ECON,7030,Microeconomic Theory II,11526,101,Discussion,0,30,Monroe Hall 116,Staff,1000,1050,5,926
+423,ECON,7040,Macroeconomic Theory II,11517,101,Discussion,0,30,Wilson Hall 238,Yong Hoon Cho,1400,1450,5,927
+424,ECON,7720,Econometrics II,10137,101,Discussion,0,30,Bryan Hall 328,Yi Ping,1200,1250,5,928
+425,ECON,8010,Microeconomic Theory III,18961,101,Discussion,0,30,Wilson Hall 238,Moonju Cho,1300,1350,5,929
+426,ECON,8360,Empirical Macroeconomics,10615,101,Discussion,0,13,Monroe Hall 114,Staff,1100,1150,1,936
+427,ECON,8720,Time Series Econometrics,12004,101,Discussion,0,13,Monroe Hall 114,Leland Farmer,1100,1150,3,940
+428,ENGL,3002,History of Literatures in English II,10147,101,Discussion,0,15,Dawson's Row 1,Stephen Hager,830,945,4,1039
+429,ENGL,3002,History of Literatures in English II,10153,102,Discussion,0,15,Bryan Hall 235,Bridget Reilly,1530,1645,4,1039
+430,ENGL,3002,History of Literatures in English II,10152,103,Discussion,0,15,Dawson's Row 1,Lloyd Sy,1000,1115,5,1039
+431,ENGL,3002,History of Literatures in English II,10151,104,Discussion,0,15,Dawson's Row 1,Lloyd Sy,1130,1245,5,1039
+432,ENGL,3002,History of Literatures in English II,10150,105,Discussion,0,15,Dawson's Row 1,Lydia Brown,1230,1345,4,1039
+433,ENGL,3002,History of Literatures in English II,10149,106,Discussion,0,15,Bryan Hall 233,Samuel Walker,1700,1815,3,1039
+434,ENGL,3002,History of Literatures in English II,10148,107,Discussion,0,15,Brooks Hall 103,Lydia Brown,1100,1215,4,1039
+435,ENGL,3002,History of Literatures in English II,12006,108,Discussion,0,15,Dell 2 102,Josephine Adams,1400,1515,4,1039
+436,ENGL,3002,History of Literatures in English II,10146,109,Discussion,0,15,New Cabell Hall 032,Monica David,1530,1645,3,1039
+437,ENGL,3002,History of Literatures in English II,12007,110,Discussion,0,15,Bryan Hall 233,Bridget Reilly,1700,1815,4,1039
+438,ENGL,3002,History of Literatures in English II,12008,111,Discussion,0,15,Bryan Hall 233,Stephen Hager,1230,1345,4,1039
+439,ENGL,3002,History of Literatures in English II,12186,112,Discussion,0,14,New Cabell Hall 038,Josephine Adams,1700,1815,4,1039
+440,ENGL,3002,History of Literatures in English II,12266,113,Discussion,0,15,New Cabell Hall 064,Samuel Walker,1830,1945,3,1039
+441,ENGL,3002,History of Literatures in English II,12311,114,Discussion,0,15,New Cabell Hall 042,Monica David,1700,1815,4,1039
+442,ENGL,3002,History of Literatures in English II,12312,115,Discussion,0,15,Bryan Hall 312,Courtney Watts,1700,1815,3,1039
+443,ENGL,3002,History of Literatures in English II,13183,116,Discussion,0,15,New Cabell Hall 066,Courtney Watts,1830,1945,3,1039
+444,ENGL,3273,Shakespeare: Tragedies and Romances,17813,101,Discussion,0,15,Bryan Hall 334,Tucker Kuman,1300,1350,3,1044
+445,ENGL,3273,Shakespeare: Tragedies and Romances,17815,103,Discussion,0,15,Bryan Hall 203,Tucker Kuman,1700,1750,3,1044
+446,ENGL,3273,Shakespeare: Tragedies and Romances,17816,104,Discussion,0,15,New Cabell Hall 287,Andie Waterman,1530,1620,4,1044
+447,ENGL,3273,Shakespeare: Tragedies and Romances,17817,105,Discussion,0,15,New Cabell Hall 207,Andie Waterman,1630,1720,4,1044
+448,ENGL,3610,Global Cultural Studies,12625,101,Discussion,0,15,New Cabell Hall 056,Daniel Zimmerman,1600,1650,3,1055
+449,ENGL,3610,Global Cultural Studies,12626,102,Discussion,0,15,Nau Hall 241,Daniel Zimmerman,1700,1750,3,1055
+450,ENGL,3610,Global Cultural Studies,12627,103,Discussion,0,15,New Cabell Hall 415,Samantha Wallace,1800,1850,3,1055
+451,ENGL,3610,Global Cultural Studies,12628,104,Discussion,0,15,Bryan Hall 330,Austyn James,1700,1750,3,1055
+452,ENGL,3610,Global Cultural Studies,12629,105,Discussion,0,15,New Cabell Hall 111,Heidi Siegrist,1700,1750,4,1055
+453,ENGL,3610,Global Cultural Studies,12630,106,Discussion,0,15,New Cabell Hall 066,Wei Liu,1800,1850,4,1055
+454,ENGL,3610,Global Cultural Studies,12631,107,Discussion,0,18,New Cabell Hall 283,Michael Levenson,1600,1650,3,1055
+455,ENGL,3610,Global Cultural Studies,12632,108,Discussion,0,15,New Cabell Hall 068,Austyn James,1800,1850,3,1055
+456,ENGL,3610,Global Cultural Studies,12633,109,Discussion,0,15,Nau Hall 142,Samantha Wallace,1700,1750,3,1055
+457,ENGL,3610,Global Cultural Studies,12634,110,Discussion,0,15,New Cabell Hall 056,Heidi Siegrist,1500,1550,4,1055
+458,ENGL,3610,Global Cultural Studies,13646,111,Discussion,0,15,New Cabell Hall 332,Wei Liu,1700,1750,4,1055
+459,ENGL,3740,Introduction to Asian American Studies,17828,101,Discussion,0,15,Shannon House 108,JiaYuan Huang,1300,1350,3,1056
+460,ENGL,3740,Introduction to Asian American Studies,17829,102,Discussion,0,15,Shannon House 108,JiaYuan Huang,1400,1450,3,1056
+461,ENGL,3740,Introduction to Asian American Studies,17830,103,Discussion,0,15,Bryan Hall 334,JiaYuan Huang,1300,1350,5,1056
+462,ENGL,3740,Introduction to Asian American Studies,17831,104,Discussion,0,15,Bryan Hall 310,JiaYuan Huang,1400,1450,5,1056
+463,EVGE,5860,Isotope Geochemistry,10794,101,Laboratory,0,15,TBA,Stephen Macko,TBA,TBA,TBA,1212
+464,EVHY,5700,Forest Hydrology,18332,101,Laboratory,0,12,Clark Hall 335,Lawrence Band,1400,1800,2,1213
+465,EVSC,2801,Fundamentals of Geology Laboratory,10172,1,Laboratory,1,14,Maury Hall 112,Janet Herman+1,1400,1800,1,1228
+466,EVSC,2801,Fundamentals of Geology Laboratory,10173,2,Laboratory,1,14,Maury Hall 112,Janet Herman+1,1400,1800,2,1228
+467,EVSC,2801,Fundamentals of Geology Laboratory,10174,3,Laboratory,1,14,Maury Hall 112,Janet Herman+1,1400,1800,3,1228
+468,EVSC,2801,Fundamentals of Geology Laboratory,10175,4,Laboratory,1,14,Maury Hall 112,Janet Herman+1,1400,1800,4,1228
+469,EVSC,2801,Fundamentals of Geology Laboratory,10176,5,Laboratory,1,14,Maury Hall 112,Emilia Torrellas+1,1400,1800,5,1228
+470,EVSC,3020,GIS Methods,11458,101,Laboratory,0,20,Mechanical Engr Bldg 214,John Porter,1700,2100,1,1229
+471,EVSC,3020,GIS Methods,11459,102,Laboratory,0,20,Mechanical Engr Bldg 213,John Porter,1700,2100,2,1229
+472,EVSC,3201,Fundamentals of Ecology Laboratory,10178,1,Laboratory,1,14,Clark Hall 202,Ieva Juska+1,1400,1800,1,1231
+473,EVSC,3201,Fundamentals of Ecology Laboratory,10179,2,Laboratory,1,14,Clark Hall 202,Thomas Smith+1,1400,1800,2,1231
+474,EVSC,3201,Fundamentals of Ecology Laboratory,10180,3,Laboratory,1,14,Clark Hall 202,Spencer Tassone+1,1400,1800,3,1231
+475,EVSC,3201,Fundamentals of Ecology Laboratory,10181,4,Laboratory,1,14,Clark Hall 202,Kelcy Kent+1,1400,1800,4,1231
+476,EVSC,3201,Fundamentals of Ecology Laboratory,11598,5,Laboratory,1,14,Clark Hall 202,Sean Hardison+1,1400,1800,5,1231
+477,EVSC,3201,Fundamentals of Ecology Laboratory,20412,6,Laboratory,1,14,Clark Hall 201,Elise Heffernan+1,1400,1800,1,1231
+478,EVSC,3301,Atmosphere and Weather Laboratory,10187,1,Laboratory,1,14,Kerchof Hall 115,Megan Mcauliffe,1400,1800,1,1232
+479,EVSC,3301,Atmosphere and Weather Laboratory,10188,2,Laboratory,1,14,Kerchof Hall 115,Laura Barry,1400,1800,2,1232
+480,EVSC,3301,Atmosphere and Weather Laboratory,10189,3,Laboratory,1,14,Kerchof Hall 115,Xinhuiyu Liu,1400,1800,3,1232
+481,EVSC,3301,Atmosphere and Weather Laboratory,13335,4,Laboratory,1,14,Kerchof Hall 115,Daniel Schmidt,1400,1800,4,1232
+482,EVSC,3601,Physical Hydrology Laboratory,10183,1,Laboratory,1,14,Kerchof Hall 115A,Staff,1400,1800,1,1234
+483,EVSC,3601,Physical Hydrology Laboratory,10184,2,Laboratory,1,14,Kerchof Hall 115A,Staff,1400,1800,2,1234
+484,EVSC,3601,Physical Hydrology Laboratory,10185,3,Laboratory,1,14,Kerchof Hall 115A,Staff,1400,1800,3,1234
+485,EVSC,3601,Physical Hydrology Laboratory,11422,4,Laboratory,1,14,Kerchof Hall 115A,Staff,1400,1800,4,1234
+486,EVSC,4660,Hydrological Field Methods and Data Analysis,18405,101,Laboratory,0,14,New Cabell Hall 268,Todd Scanlon,1600,1750,2,1245
+487,EVSC,5020,Introduction to Geographic Information Systems (GIS),11461,101,Laboratory,0,20,Mechanical Engr Bldg 214,John Porter,1700,2100,1,1286
+488,EVSC,5020,Introduction to Geographic Information Systems (GIS),11462,102,Laboratory,0,20,Mechanical Engr Bldg 213,John Porter,1700,2100,2,1286
+489,EVSC,5030,Applied Statistics for Environmental Scientists,10192,101,Laboratory,0,15,Mechanical Engr Bldg 215,David Carr,1730,1930,4,1287
+490,EVSC,5030,Applied Statistics for Environmental Scientists,10193,102,Laboratory,0,15,New Cabell Hall 268,David Carr,1400,1600,3,1287
+491,FREN,3029,Language House Conversation,20681,1,Discussion,1,10,TBA,Katia Bellal,TBA,TBA,TBA,1464
+492,GERM,3290,German Studies Roundtable,19202,1,Discussion,1,15,New Cabell Hall 209,Sophie Schaffeld,1700,1800,3,1530
+493,GETR,3390,Nazi Germany,13329,101,Discussion,0,20,New Cabell Hall 368,Emily Matson,1600,1650,4,1548
+494,GETR,3390,Nazi Germany,13330,102,Discussion,0,20,Nau Hall 241,Emily Matson,1700,1750,4,1548
+495,GETR,3390,Nazi Germany,19750,103,Discussion,0,20,Nau Hall 141,Emily Matson,1800,1850,4,1548
+496,HIAF,2002,Modern African History,12321,101,Discussion,0,20,New Cabell Hall 291,Yuchen Zhao,1600,1650,4,1561
+497,HIAF,2002,Modern African History,12322,102,Discussion,0,20,New Cabell Hall 058,Yuchen Zhao,1700,1750,4,1561
+498,HIAF,2002,Modern African History,12323,103,Discussion,0,20,Nau Hall 142,Yuchen Zhao,1800,1850,4,1561
+499,HIEU,2041,Roman Republic and Empire,11763,101,Discussion,0,20,Kerchof Hall 317,Stephanie Lawton,1600,1650,3,1579
+500,HIEU,2041,Roman Republic and Empire,11764,102,Discussion,0,20,New Cabell Hall 115,Stephanie Lawton,1800,1850,3,1579
+501,HIEU,2041,Roman Republic and Empire,11765,103,Discussion,0,20,New Cabell Hall 183,Joshua MacKay,1200,1250,5,1579
+502,HIEU,2041,Roman Republic and Empire,12637,104,Discussion,0,20,New Cabell Hall 187,Stephanie Lawton,1200,1250,5,1579
+503,HIEU,2041,Roman Republic and Empire,12638,105,Discussion,0,20,New Cabell Hall 032,Joshua MacKay,1300,1350,5,1579
+504,HIEU,2041,Roman Republic and Empire,12639,106,Discussion,0,20,New Cabell Hall 032,Joshua MacKay,1400,1450,5,1579
+505,HIEU,2072,Modern Europe and the World,18715,101,Discussion,0,20,New Cabell Hall 058,Daniel Sunshine,1600,1650,3,1580
+506,HIEU,2072,Modern Europe and the World,18716,102,Discussion,0,20,New Cabell Hall 032,Daniel Sunshine,1700,1750,3,1580
+507,HIEU,2072,Modern Europe and the World,18717,103,Discussion,0,20,New Cabell Hall 191,Daniel Sunshine,1300,1350,4,1580
+508,HIEU,2102,Modern Jewish History,18720,101,Discussion,0,20,New Cabell Hall 415,Amy Fedeski,1600,1650,4,1581
+509,HIEU,2102,Modern Jewish History,18721,102,Discussion,0,20,Nau Hall 141,Amy Fedeski,1700,1750,4,1581
+510,HIEU,2102,Modern Jewish History,18722,103,Discussion,0,20,New Cabell Hall 168,Amy Fedeski,1800,1850,4,1581
+511,HIEU,2112,Britain since 1688: From the Glorious Revolution to Brexit,18725,101,Discussion,0,20,The Rotunda Room 150,Christopher Maternowski,1800,1850,4,1582
+512,HIEU,2112,Britain since 1688: From the Glorious Revolution to Brexit,18726,102,Discussion,0,20,New Cabell Hall 332,Christopher Maternowski,1300,1350,5,1582
+513,HIEU,2112,Britain since 1688: From the Glorious Revolution to Brexit,18727,103,Discussion,0,20,New Cabell Hall 332,Christopher Maternowski,1400,1450,5,1582
+514,HIEU,2721,"Supernatural Europe, 1500-1800",18740,101,Discussion,0,20,The Rotunda Room 152,Thomas Davidson,1700,1750,3,1585
+515,HIEU,2721,"Supernatural Europe, 1500-1800",18741,102,Discussion,0,20,New Cabell Hall 183,Thomas Davidson,1600,1650,3,1585
+516,HIEU,2721,"Supernatural Europe, 1500-1800",18742,103,Discussion,0,20,The Rotunda Room 152,Thomas Davidson,1800,1850,3,1585
+517,HIEU,3021,Greek and Roman Warfare,18747,101,Discussion,0,20,Nau Hall 241,Henry Lanphier,900,950,4,1587
+518,HIEU,3021,Greek and Roman Warfare,18748,102,Discussion,0,20,Nau Hall 241,Henry Lanphier,1000,1050,4,1587
+519,HIEU,3021,Greek and Roman Warfare,18749,103,Discussion,0,20,Nau Hall 241,Henry Lanphier,1100,1150,4,1587
+520,HIEU,3021,Greek and Roman Warfare,18750,104,Discussion,0,20,New Cabell Hall 368,Lily van Diepen,1000,1050,5,1587
+521,HIEU,3021,Greek and Roman Warfare,18751,105,Discussion,0,20,New Cabell Hall 338,Lily van Diepen,1100,1150,5,1587
+522,HIEU,3021,Greek and Roman Warfare,18752,106,Discussion,0,20,New Cabell Hall 415,Lily van Diepen,1200,1250,5,1587
+523,HIEU,3141,Anglo-Saxon England,18760,101,Discussion,0,20,Monroe Hall 118,Alexandra Garrett,1600,1650,3,1588
+524,HIEU,3141,Anglo-Saxon England,18761,102,Discussion,0,20,Lower West Oval Room 102,Alexandra Garrett,1700,1750,3,1588
+525,HIEU,3141,Anglo-Saxon England,18762,103,Discussion,0,20,Brooks Hall 103,Alexandra Garrett,1800,1850,3,1588
+526,HIEU,3390,Nazi Germany,18782,101,Discussion,0,20,New Cabell Hall 368,Emily Matson,1600,1650,4,1589
+527,HIEU,3390,Nazi Germany,18783,102,Discussion,0,20,Nau Hall 241,Emily Matson,1700,1750,4,1589
+528,HIEU,3390,Nazi Germany,18784,103,Discussion,0,20,Nau Hall 141,Emily Matson,1800,1850,4,1589
+529,HILA,2002,"Modern Latin America, 1824 to Present",10586,101,Discussion,0,20,Shannon House 109,Joseph Foley,1400,1450,5,1597
+530,HILA,2002,"Modern Latin America, 1824 to Present",10587,102,Discussion,0,20,Shannon House 109,Joseph Foley,1200,1250,5,1597
+531,HILA,2002,"Modern Latin America, 1824 to Present",10588,103,Discussion,0,20,Shannon House 109,Joseph Foley,1300,1350,5,1597
+532,HISA,3003,Twentieth-Century South Asia,18743,101,Discussion,0,20,Monroe Hall 114,Clayton Butler,1000,1050,5,1604
+533,HISA,3003,Twentieth-Century South Asia,18744,102,Discussion,0,20,Maury Hall 113,Clayton Butler,1100,1150,5,1604
+534,HISA,3003,Twentieth-Century South Asia,18745,103,Discussion,0,20,New Cabell Hall 383,Clayton Butler,1200,1250,5,1604
+535,HIST,2214,The Cold War,18730,101,Discussion,0,20,pbell Hall 108,Matthew Frakes,1900,750pmC,3,1606
+536,HIST,2214,The Cold War,18731,102,Discussion,0,20,pbell Hall 108,Matthew Frakes,1700,550pmC,3,1606
+537,HIST,2214,The Cold War,18732,103,Discussion,0,20,pbell Hall 108,Matthew Frakes,1800,650pmC,3,1606
+538,HIST,2214,The Cold War,18733,104,Discussion,0,20,Nau Hall 141,Meghan Herwig,1000,1050,5,1606
+539,HIST,2214,The Cold War,18734,105,Discussion,0,20,New Cabell Hall 191,Meghan Herwig,1400,1450,5,1606
+540,HIST,2214,The Cold War,18735,106,Discussion,0,20,New Cabell Hall 207,Meghan Herwig,1300,1350,5,1606
+541,HIUS,2002,American History Since 1865,18704,101,Discussion,0,20,Gibson Hall 041,Donovan Fifield,1600,1650,4,1660
+542,HIUS,2002,American History Since 1865,18705,102,Discussion,0,20,Gibson Hall 142,Donovan Fifield,1700,1750,4,1660
+543,HIUS,2002,American History Since 1865,18706,103,Discussion,0,20,Gibson Hall 142,Donovan Fifield,1800,1850,4,1660
+544,HIUS,2051,United States Military History 1600-1900,18708,101,Discussion,0,20,New Cabell Hall 191,Ian Iverson,1300,1350,3,1661
+545,HIUS,2051,United States Military History 1600-1900,18709,102,Discussion,0,20,Maury Hall 113,Ian Iverson,1400,1450,3,1661
+546,HIUS,2051,United States Military History 1600-1900,18710,103,Discussion,0,20,New Cabell Hall 383,Ian Iverson,1700,1750,3,1661
+547,HIUS,2051,United States Military History 1600-1900,18711,104,Discussion,0,20,Dell 2 101,Daniele Celano,1000,1050,5,1661
+548,HIUS,2051,United States Military History 1600-1900,18712,105,Discussion,0,20,Dell 2 101,Daniele Celano,1100,1150,5,1661
+549,HIUS,2051,United States Military History 1600-1900,18713,106,Discussion,0,20,Dell 2 100,Daniele Celano,1200,1250,5,1661
+550,HIUS,3051,"The Age of Jefferson and Jackson, 1789-1845",12972,101,Discussion,0,20,New Cabell Hall 411,Alice King,900,950,4,1662
+551,HIUS,3051,"The Age of Jefferson and Jackson, 1789-1845",12973,102,Discussion,0,20,Nau Hall 142,Alice King,1200,1250,3,1662
+552,HIUS,3051,"The Age of Jefferson and Jackson, 1789-1845",12974,103,Discussion,0,20,New Cabell Hall 187,Alice King,1300,1350,3,1662
+553,HIUS,3072,The Civil War and Reconstruction,18756,101,Discussion,0,20,Nau Hall 142,Kevin Caprice,900,950,5,1663
+554,HIUS,3072,The Civil War and Reconstruction,18757,102,Discussion,0,20,Ruffner Hall 123,Kevin Caprice,1100,1150,5,1663
+555,HIUS,3072,The Civil War and Reconstruction,18758,103,Discussion,0,20,Ruffner Hall 123,Kevin Caprice,1200,1250,5,1663
+556,HIUS,3161,"Viewing America, 1940 to 1980",18764,101,Discussion,0,20,New Cabell Hall 187,Mina Lee,1000,1050,4,1664
+557,HIUS,3161,"Viewing America, 1940 to 1980",18765,102,Discussion,0,20,New Cabell Hall 115,Mina Lee,1100,1150,4,1664
+558,HIUS,3161,"Viewing America, 1940 to 1980",18766,103,Discussion,0,20,New Cabell Hall 207,Mina Lee,1200,1250,4,1664
+559,HIUS,3161,"Viewing America, 1940 to 1980",18767,104,Discussion,0,20,Gibson Hall 242,Stefan Lund,1000,1050,5,1664
+560,HIUS,3161,"Viewing America, 1940 to 1980",18768,105,Discussion,0,20,Nau Hall 242,Stefan Lund,1100,1150,5,1664
+561,HIUS,3161,"Viewing America, 1940 to 1980",18769,106,Discussion,0,20,New Cabell Hall 489,Stefan Lund,1200,1250,5,1664
+562,HIUS,3171,"US Since 1945: People, Politics, Power",18773,101,Discussion,0,20,Gibson Hall 141,Brianna Kirk,1000,1050,5,1665
+563,HIUS,3171,"US Since 1945: People, Politics, Power",18774,102,Discussion,0,20,Nau Hall 241,Brianna Kirk,1100,1150,5,1665
+564,HIUS,3171,"US Since 1945: People, Politics, Power",18775,103,Discussion,0,20,Nau Hall 141,Brianna Kirk,1300,1350,5,1665
+565,HIUS,3261,History of the American West,18777,101,Discussion,0,20,Nau Hall 242,Jennifer Levin,1000,1050,5,1666
+566,HIUS,3261,History of the American West,18778,102,Discussion,0,20,Nau Hall 142,Jennifer Levin,1100,1150,5,1666
+567,HIUS,3261,History of the American West,18779,103,Discussion,0,20,Nau Hall 241,Jennifer Levin,1300,1350,5,1666
+568,HIUS,3652,Afro-American History since 1865,18803,101,Discussion,0,20,Kerchof Hall 317,Chloe Porche,1400,1450,3,1672
+569,HIUS,3652,Afro-American History since 1865,18804,102,Discussion,0,20,Maury Hall 113,Chloe Porche,1700,1750,4,1672
+570,HIUS,3652,Afro-American History since 1865,18805,103,Discussion,0,20,Gibson Hall 241,Chloe Porche,1800,1850,4,1672
+571,MATH,1190,A Survey of Calculus I with Algebra,10285,101,Discussion,0,40,Monroe Hall 124,Donnelly Phillips,1200,1250,5,1696
+572,MATH,1310,Calculus I,10296,101,Discussion,0,28,New Cabell Hall 368,Mark Lewers,1100,1150,5,1712
+573,MATH,1310,Calculus I,10297,201,Discussion,0,28,Gibson Hall 041,Veronica Shalotenko,1700,1750,4,1713
+574,MATH,1320,Calculus II,12196,101,Discussion,0,28,New Cabell Hall 368,Bogdan Krstic,1700,1750,4,1714
+575,MATH,1320,Calculus II,12078,201,Discussion,0,28,New Cabell Hall 368,Evangelos Dimou,1300,1350,5,1715
+576,MATH,1320,Calculus II,10300,301,Discussion,0,28,Gibson Hall 041,Matthew Gagne,1300,1350,5,1716
+577,MATH,1320,Calculus II,13357,401,Discussion,0,28,New Cabell Hall 368,Evangelos Dimou,1200,1250,5,1717
+578,MATH,1320,Calculus II,19603,501,Discussion,0,28,Gibson Hall 041,Christopher Chung,1000,1050,5,1718
+579,MATH,2310,Calculus III,10304,101,Discussion,0,45,Monroe Hall 124,Yaolong Shen,1700,1750,2,1719
+580,MATH,2310,Calculus III,10305,201,Discussion,0,45,Rouss Hall 403,Wojciech Tralle,800,850,4,1720
+581,MATH,2310,Calculus III,10306,301,Discussion,0,45,New Cabell Hall 323,Aoran Wu,1700,1750,1,1721
+582,MATH,3000,Transition to Higher Mathematics,12535,101,Discussion,0,35,Rouss Hall 403,William Craig,1700,1750,3,1722
+583,MATH,3250,Ordinary Differential Equations,10310,101,Discussion,0,40,Clark Hall G004,Tanner Carawan,1700,1750,2,1726
+584,MATH,3250,Ordinary Differential Equations,10309,201,Discussion,0,45,Monroe Hall 116,Badri Vishal Pandey,1700,1750,4,1727
+585,MATH,3250,Ordinary Differential Equations,12260,301,Discussion,0,45,Rouss Hall 403,Kian cheong Aik,800,850,2,1728
+586,MATH,3315,Advanced Calculus and Linear Algebra II,12081,101,Discussion,0,20,New Cabell Hall 383,Alec Traaseth,1700,1750,1,1732
+587,MDST,2000,Introduction to Media Studies,12227,101,Discussion,0,20,Gibson Hall 141,Caleb Hendrickson,1700,1750,1,1811
+588,MDST,2000,Introduction to Media Studies,12228,102,Discussion,0,20,Wilson Hall 244,Caleb Hendrickson,1800,1850,1,1811
+589,MDST,2000,Introduction to Media Studies,12229,103,Discussion,0,20,Wilson Hall 244,Caleb Hendrickson,1900,1950,1,1811
+590,MDST,2000,Introduction to Media Studies,12230,104,Discussion,0,20,New Cabell Hall 115,Shifa Noor,1700,1750,2,1811
+591,MDST,2000,Introduction to Media Studies,12231,105,Discussion,0,20,Wilson Hall 214,Shifa Noor,1800,1850,2,1811
+592,MDST,2000,Introduction to Media Studies,12232,106,Discussion,0,20,Wilson Hall 244,Shifa Noor,1900,1950,2,1811
+593,MDST,2000,Introduction to Media Studies,12233,107,Discussion,0,20,Gibson Hall 041,Kyle Chattleton,1700,1750,3,1811
+594,MDST,2000,Introduction to Media Studies,12234,108,Discussion,0,20,Wilson Hall 244,Kyle Chattleton,1800,1850,3,1811
+595,MDST,2000,Introduction to Media Studies,13250,110,Discussion,0,20,Physics Bldg 218,Kyle Chattleton,1700,1750,4,1811
+596,MDST,2000,Introduction to Media Studies,13253,113,Discussion,0,20,Bryan Hall 328,Alexander Welch,1000,1050,5,1811
+597,MDST,2000,Introduction to Media Studies,13254,114,Discussion,0,20,Gibson Hall 241,Alexander Welch,1100,1150,5,1811
+598,MDST,2000,Introduction to Media Studies,13255,115,Discussion,0,20,Gibson Hall 041,Alexander Welch,1200,1250,5,1811
+599,MDST,2305,"Podcasting, Radio and Sound Production",17707,1,Laboratory,3,15,New Cabell Hall 268,Elliot Majerczyk,1730,2000,3,1811
+600,MDST,3830,History of Film I,17731,101,Laboratory,0,30,Bryan Hall 328,Matthew Marshall,1900,2100,1,1837
+601,MEST,3470,Language and Culture in the Middle East,19369,101,Discussion,0,20,Brooks Hall 103,Tirajeh Tahvildar Akbari,1700,1750,3,1903
+602,MEST,3470,Language and Culture in the Middle East,19370,102,Discussion,0,20,Brooks Hall 103,Tirajeh Tahvildar Akbari,1700,1750,4,1903
+603,MEST,3470,Language and Culture in the Middle East,19371,103,Discussion,0,20,Brooks Hall 103,Tirajeh Tahvildar Akbari,1300,1350,5,1903
+604,MUEN,3610,Orchestra,10331,101,Discussion,0,15,Old Cabell Hall B012,Peter Spaar,1730,1900,1,1930
+605,MUEN,3610,Orchestra,10332,103,Discussion,0,15,Old Cabell Hall 113,Ayn Balija,1730,1900,1,1930
+606,MUEN,3610,Orchestra,10333,104,Discussion,0,15,Old Cabell Hall 107,Daniel Sender,1730,1900,1,1930
+607,MUEN,3610,Orchestra,10334,105,Discussion,0,15,Old Cabell Hall B018,David Sariti,1730,1900,1,1930
+608,MUEN,3610,Orchestra,11221,106,Discussion,0,15,Old Cabell Hall S004,Adam Carter,1730,1900,1,1930
+609,MUEN,3610,Orchestra,10335,203,Discussion,0,15,Old Cabell Hall 107,Kelly Sulick,1715,1815,3,1933
+610,MUEN,3610,Orchestra,10336,205,Discussion,0,15,Contact Department,Kelly Peral,1600,1700,3,1933
+611,MUEN,3610,Orchestra,10337,206,Discussion,0,15,Old Cabell Hall B018,I-Jen Fang,1800,1850,3,1933
+612,MUEN,3610,Orchestra,10338,207,Discussion,0,15,TBA,Arthur Zanin,1715,1815,3,1933
+613,MUEN,3610,Orchestra,10339,208,Discussion,0,15,TBA,Nathaniel Lee,1715,1815,3,1933
+614,MUEN,3610,Orchestra,13148,209,Discussion,0,15,Contact Department,Jiyeon Choi,1715,1815,3,1933
+615,MUEN,3645,Bluegrass Workshop,11729,1,Laboratory,1,10,Contact Department,Richard Will,1900,2000,2,1952
+616,MUSI,2090,Sound Studies: Anthropology and the Art of Sound Experience,18603,101,Discussion,0,8,Old Cabell Hall S008,Basile Koechlin,900,950,1,2051
+617,MUSI,2090,Sound Studies: Anthropology and the Art of Sound Experience,18604,102,Discussion,0,8,Old Cabell Hall S008,Basile Koechlin,1000,1050,1,2051
+618,MUSI,2090,Sound Studies: Anthropology and the Art of Sound Experience,18605,103,Discussion,0,8,Old Cabell Hall S008,Basile Koechlin,1100,1150,1,2051
+619,MUSI,2120,History of Jazz Music,18607,101,Discussion,0,20,Old Cabell Hall S008,Justin Mueller,900,950,3,2052
+620,MUSI,2120,History of Jazz Music,18608,102,Discussion,0,20,Old Cabell Hall S008,Justin Mueller,1000,1050,3,2052
+621,MUSI,2120,History of Jazz Music,18609,103,Discussion,0,20,Old Cabell Hall S008,Justin Mueller,1100,1150,3,2052
+622,MUSI,2120,History of Jazz Music,19485,107,Discussion,0,20,Old Cabell Hall S008,Kerri Rafferty,900,950,5,2052
+623,MUSI,2120,History of Jazz Music,19486,108,Discussion,0,20,Old Cabell Hall S008,Kerri Rafferty,1000,1050,5,2052
+624,MUSI,2120,History of Jazz Music,19487,109,Discussion,0,20,Old Cabell Hall S008,Kerri Rafferty,1100,1150,5,2052
+625,MUSI,2350,Technosonics: Digital Music and Sound Art Composition,18613,101,Discussion,0,20,New Cabell Hall 268,Omar Fraire,900,950,1,2058
+626,MUSI,2350,Technosonics: Digital Music and Sound Art Composition,18614,102,Discussion,0,20,New Cabell Hall 268,Omar Fraire,1000,1050,1,2058
+627,MUSI,2350,Technosonics: Digital Music and Sound Art Composition,18615,103,Discussion,0,20,New Cabell Hall 268,Omar Fraire,1300,1350,1,2058
+628,MUSI,2350,Technosonics: Digital Music and Sound Art Composition,18616,104,Discussion,0,20,New Cabell Hall 268,Daniel Fishkin,930,1020,2,2058
+629,MUSI,2350,Technosonics: Digital Music and Sound Art Composition,18617,105,Discussion,0,20,New Cabell Hall 268,Daniel Fishkin,1030,1120,2,2058
+630,MUSI,2350,Technosonics: Digital Music and Sound Art Composition,18618,106,Discussion,0,20,New Cabell Hall 268,Daniel Fishkin,1130,1220,2,2058
+631,MUSI,2350,Technosonics: Digital Music and Sound Art Composition,18619,107,Discussion,0,20,New Cabell Hall 268,Hannah Young,900,950,3,2058
+632,MUSI,2350,Technosonics: Digital Music and Sound Art Composition,18620,108,Discussion,0,20,New Cabell Hall 268,Hannah Young,1000,1050,3,2058
+633,MUSI,2350,Technosonics: Digital Music and Sound Art Composition,18621,109,Discussion,0,20,New Cabell Hall 268,Hannah Young,1300,1350,3,2058
+634,MUSI,2350,Technosonics: Digital Music and Sound Art Composition,18622,110,Discussion,0,20,New Cabell Hall 268,Heather Mease,1200,1250,4,2058
+635,MUSI,2350,Technosonics: Digital Music and Sound Art Composition,18623,111,Discussion,0,20,New Cabell Hall 268,Heather Mease,1000,1050,4,2058
+636,MUSI,2350,Technosonics: Digital Music and Sound Art Composition,18624,112,Discussion,0,20,New Cabell Hall 268,Heather Mease,1100,1150,4,2058
+637,MUSI,2350,Technosonics: Digital Music and Sound Art Composition,18625,113,Discussion,0,20,New Cabell Hall 268,Emily Mellen,900,950,5,2058
+638,MUSI,2350,Technosonics: Digital Music and Sound Art Composition,18626,114,Discussion,0,20,New Cabell Hall 268,Emily Mellen,1000,1050,5,2058
+639,MUSI,2350,Technosonics: Digital Music and Sound Art Composition,18627,115,Discussion,0,20,New Cabell Hall 268,Emily Mellen,1300,1350,5,2058
+640,MUSI,3090,Performance in Africa,19822,10,Laboratory,0,43,Old Cabell Hall 107,Eric Gertner,1745,1915,"2, 4",2066
+641,MUSI,3374,Composing Mixtapes,13708,101,Laboratory,0,15,New Cabell Hall 398,Savanna Morrison,900,950,1,2073
+642,MUSI,3374,Composing Mixtapes,18631,102,Laboratory,0,15,New Cabell Hall 398,Savanna Morrison,1000,1050,1,2073
+643,MUSI,3374,Composing Mixtapes,18632,103,Laboratory,0,15,New Cabell Hall 398,Savanna Morrison,1100,1150,1,2073
+644,MUSI,3380,Introduction to Composition,19493,101,Discussion,0,9,TBA,Becky Brown,TBA,TBA,3,2074
+645,MUSI,3380,Introduction to Composition,19494,102,Discussion,0,9,TBA,Becky Brown,TBA,TBA,3,2074
+646,MUSI,3380,Introduction to Composition,19495,103,Discussion,0,9,TBA,Becky Brown,TBA,TBA,3,2074
+647,PHIL,1000,Introduction to Philosophy,10367,102,Discussion,0,20,pbell Hall 108,Chunling Yan,1200,50pmC,5,2176
+648,PHIL,1000,Introduction to Philosophy,10368,103,Discussion,0,20,Cocke Hall 101,Chunling Yan,900,950,5,2176
+649,PHIL,1000,Introduction to Philosophy,10369,104,Discussion,0,20,Wilson Hall 244,Matthew Andler,1600,1650,4,2176
+650,PHIL,1000,Introduction to Philosophy,10370,105,Discussion,0,20,New Cabell Hall 211,Matthew Andler,1700,1750,4,2176
+651,PHIL,1000,Introduction to Philosophy,18230,106,Discussion,0,20,Cocke Hall 101,Chunling Yan,1000,1050,5,2176
+652,PHIL,1000,Introduction to Philosophy,18231,107,Discussion,0,20,New Cabell Hall 407,Matthew Andler,1800,1850,4,2176
+653,PHIL,1710,Human Nature,18233,101,Discussion,0,20,New Cabell Hall 209,Katelyn Aberl,1900,1950,4,2178
+654,PHIL,1710,Human Nature,18234,102,Discussion,0,20,New Cabell Hall 283,Ambrose Little,1700,1750,4,2178
+655,PHIL,1710,Human Nature,18235,103,Discussion,0,20,New Cabell Hall 287,Katelyn Aberl,1800,1850,4,2178
+656,PHIL,1710,Human Nature,18236,104,Discussion,0,20,New Cabell Hall 283,Jimin Lee,1800,1850,4,2178
+657,PHIL,1710,Human Nature,18237,105,Discussion,0,20,New Cabell Hall 107,Jimin Lee,1900,1950,4,2178
+658,PHIL,1710,Human Nature,18238,106,Discussion,0,20,New Cabell Hall 187,Ambrose Little,800,850,5,2178
+659,PHIL,1710,Human Nature,18239,107,Discussion,0,20,Cocke Hall 115,Katelyn Aberl,900,950,5,2178
+660,PHIL,1710,Human Nature,18240,108,Discussion,0,20,Cocke Hall 115,Ambrose Little,1000,1050,5,2178
+661,PHIL,1710,Human Nature,18241,109,Discussion,0,20,Physics Bldg 210,Jimin Lee,1200,1250,5,2178
+662,PHIL,1740,Issues of Life and Death,12031,101,Discussion,0,20,New Cabell Hall 303,Elyse Oakley,1900,1950,4,2179
+663,PHIL,1740,Issues of Life and Death,12032,102,Discussion,0,20,New Cabell Hall 287,Elyse Oakley,1700,1750,4,2179
+664,PHIL,1740,Issues of Life and Death,12033,103,Discussion,0,20,New Cabell Hall 211,Elyse Oakley,1800,1850,4,2179
+665,PHIL,1740,Issues of Life and Death,12714,104,Discussion,0,20,Maury Hall 113,William Vincent,900,950,5,2179
+666,PHIL,1740,Issues of Life and Death,12715,105,Discussion,0,20,Maury Hall 113,William Vincent,1000,1050,5,2179
+667,PHIL,1740,Issues of Life and Death,12716,106,Discussion,0,20,Monroe Hall 114,William Vincent,1100,1150,5,2179
+668,PHIL,2120,History of Philosophy: Modern,10372,101,Discussion,0,20,New Cabell Hall 395,Travis Tanner,1900,1950,4,2180
+669,PHIL,2120,History of Philosophy: Modern,10373,102,Discussion,0,20,New Cabell Hall 411,Travis Tanner,1700,1750,4,2180
+670,PHIL,2120,History of Philosophy: Modern,10374,103,Discussion,0,20,New Cabell Hall 207,Travis Tanner,1800,1850,4,2180
+671,PHIL,2330,Philosophy and Artificial Intelligence,19398,101,Discussion,0,20,Dell 2 102,Nikolina Cetic,1600,1650,4,2181
+672,PHIL,2330,Philosophy and Artificial Intelligence,19399,102,Discussion,0,20,New Cabell Hall 415,Nikolina Cetic,1700,1750,4,2181
+673,PHIL,2330,Philosophy and Artificial Intelligence,19400,103,Discussion,0,20,New Cabell Hall 187,Nikolina Cetic,1800,1850,4,2181
+674,PHIL,2640,Rational Choice and Happiness,18246,101,Discussion,0,20,Fayerweather Hall 206,Stephen Marrone,900,950,5,2184
+675,PHIL,2640,Rational Choice and Happiness,18247,102,Discussion,0,20,Fayerweather Hall 206,Stephen Marrone,1000,1050,5,2184
+676,PHIL,2640,Rational Choice and Happiness,18248,103,Discussion,0,20,Fayerweather Hall 206,Stephen Marrone,1100,1150,5,2184
+677,PHIL,2650,Free Will and Responsibility,18250,101,Discussion,0,20,Physics Bldg 210,Ethan Butt,1600,1650,4,2185
+678,PHIL,2650,Free Will and Responsibility,18251,102,Discussion,0,20,Physics Bldg 210,Ethan Butt,1700,1750,4,2185
+679,PHIL,2650,Free Will and Responsibility,18252,103,Discussion,0,20,Physics Bldg 218,Ethan Butt,1800,1850,4,2185
+680,PHIL,2652,Animal Minds and Animal Ethics,19403,101,Discussion,0,20,Shannon House 109,Kirra Hyde,900,950,5,2186
+681,PHIL,2652,Animal Minds and Animal Ethics,19404,102,Discussion,0,20,Shannon House 109,Kirra Hyde,1000,1050,5,2186
+682,PHIL,2652,Animal Minds and Animal Ethics,19405,103,Discussion,0,20,Shannon House 111,Kirra Hyde,1200,1250,5,2186
+683,PHIL,2660,Philosophy of Religion,18254,101,Discussion,0,20,Fayerweather Hall 215,Yan Nok Fung,900,950,5,2187
+684,PHIL,2660,Philosophy of Religion,18255,102,Discussion,0,20,Fayerweather Hall 215,Yan Nok Fung,1000,1050,5,2187
+685,PHIL,2660,Philosophy of Religion,18256,103,Discussion,0,20,Fayerweather Hall 215,Yan Nok Fung,1100,1150,5,2187
+686,PHIL,2780,Ancient Political Thought,18258,101,Discussion,0,15,New Cabell Hall 042,Zachary Puetz,1600,1650,4,2188
+687,PHIL,2780,Ancient Political Thought,18259,102,Discussion,0,20,New Cabell Hall 209,Zachary Puetz,1700,1750,4,2188
+688,PHIL,2780,Ancient Political Thought,18260,103,Discussion,0,20,New Cabell Hall 115,Zachary Puetz,1800,1850,4,2188
+689,PHYS,1425,"General Physics I: Mechanics, Thermodynamics",19857,101,Discussion,0,240,TBA,Staff02/12 ,1830,2000,3,2228
+690,PHYS,1425,"General Physics I: Mechanics, Thermodynamics",19858,102,Discussion,0,240,TBA,Staff02/12 ,2030,2200,3,2228
+691,PHYS,1429,General Physics I Workshop,10381,1,Laboratory,1,2,Physics Bldg 215,Maksim Bychkov,1200,1350,1,2228
+692,PHYS,1429,General Physics I Workshop,10382,2,Laboratory,1,2,Physics Bldg 215,Maksim Bychkov,1400,1550,1,2228
+693,PHYS,1429,General Physics I Workshop,10383,3,Laboratory,1,2,Physics Bldg 215,Maksim Bychkov,1600,1750,1,2228
+694,PHYS,1429,General Physics I Workshop,10384,4,Laboratory,1,2,Physics Bldg 215,Maksim Bychkov,1800,1950,1,2228
+695,PHYS,1429,General Physics I Workshop,18931,5,Laboratory,1,0,Physics Bldg 215,Maksim Bychkov,1200,1350,2,2228
+696,PHYS,1429,General Physics I Workshop,10385,6,Laboratory,1,2,Physics Bldg 213,Maksim Bychkov,1200,1350,2,2228
+697,PHYS,1429,General Physics I Workshop,10386,7,Laboratory,1,2,Physics Bldg 215,Maksim Bychkov,1400,1550,2,2228
+698,PHYS,1429,General Physics I Workshop,10387,8,Laboratory,1,2,Physics Bldg 213,Maksim Bychkov,1400,1550,2,2228
+699,PHYS,1429,General Physics I Workshop,10388,9,Laboratory,1,2,Physics Bldg 215,Maksim Bychkov,1600,1750,2,2228
+700,PHYS,1429,General Physics I Workshop,10389,10,Laboratory,1,2,Physics Bldg 213,Maksim Bychkov,1600,1750,2,2228
+701,PHYS,1429,General Physics I Workshop,10390,11,Laboratory,1,2,Physics Bldg 215,Maksim Bychkov,1800,1950,2,2228
+702,PHYS,1429,General Physics I Workshop,11556,12,Laboratory,1,2,Physics Bldg 215,Maksim Bychkov,1200,1350,3,2228
+703,PHYS,1429,General Physics I Workshop,11557,13,Laboratory,1,2,Physics Bldg 213,Maksim Bychkov,1200,1350,3,2228
+704,PHYS,1429,General Physics I Workshop,10391,14,Laboratory,1,2,Physics Bldg 215,Maksim Bychkov,1400,1550,3,2228
+705,PHYS,1429,General Physics I Workshop,11468,15,Laboratory,1,2,Physics Bldg 213,Maksim Bychkov,1400,1550,3,2228
+706,PHYS,1429,General Physics I Workshop,10392,16,Laboratory,1,2,Physics Bldg 215,Maksim Bychkov,1600,1750,3,2228
+707,PHYS,1429,General Physics I Workshop,10393,17,Laboratory,1,2,Physics Bldg 213,Maksim Bychkov,1600,1750,3,2228
+708,PHYS,1429,General Physics I Workshop,10394,18,Laboratory,1,2,Physics Bldg 215,Maksim Bychkov,1800,1950,3,2228
+709,PHYS,1429,General Physics I Workshop,18943,19,Laboratory,1,0,Physics Bldg 215,Maksim Bychkov,1250,1350,4,2228
+710,PHYS,1429,General Physics I Workshop,10395,20,Laboratory,1,2,Physics Bldg 213,Maksim Bychkov,1200,1350,4,2228
+711,PHYS,1429,General Physics I Workshop,10396,21,Laboratory,1,2,Physics Bldg 215,Maksim Bychkov,1400,1550,4,2228
+712,PHYS,1429,General Physics I Workshop,10397,22,Laboratory,1,2,Physics Bldg 213,Maksim Bychkov,1400,1550,4,2228
+713,PHYS,1429,General Physics I Workshop,10399,23,Laboratory,1,2,Physics Bldg 215,Maksim Bychkov,1600,1750,4,2228
+714,PHYS,1429,General Physics I Workshop,10398,24,Laboratory,1,2,Physics Bldg 213,Maksim Bychkov,1600,1750,4,2228
+715,PHYS,1720,"Introductory Physics II: Gravitation, Electricity & Magnetism, Optics",12123,101,Discussion,0,30,Physics Bldg 210,Nilanga Liyanage,1300,1350,3,2229
+716,PHYS,1720,"Introductory Physics II: Gravitation, Electricity & Magnetism, Optics",12124,102,Discussion,0,30,Wilson Hall 238,Nilanga Liyanage,1530,1620,4,2229
+717,PHYS,2040,Basic Physics Laboratory II,10401,1,Laboratory,1,2,Physics Bldg 212,Jongsoo Yoon+1,900,1050,1,2231
+718,PHYS,2040,Basic Physics Laboratory II,10402,2,Laboratory,1,2,Physics Bldg 212,Jongsoo Yoon+1,1100,1250,1,2231
+719,PHYS,2040,Basic Physics Laboratory II,10403,3,Laboratory,1,2,Physics Bldg 212,Jongsoo Yoon+1,1300,1450,1,2231
+720,PHYS,2040,Basic Physics Laboratory II,10404,4,Laboratory,1,2,Physics Bldg 212,Jongsoo Yoon+1,1500,1650,1,2231
+721,PHYS,2040,Basic Physics Laboratory II,10405,5,Laboratory,1,2,Physics Bldg 212,Jongsoo Yoon+1,1700,1850,1,2231
+722,PHYS,2040,Basic Physics Laboratory II,18935,6,Laboratory,1,0,Physics Bldg 212,Jongsoo Yoon+1,900,1050,2,2231
+723,PHYS,2040,Basic Physics Laboratory II,13135,7,Laboratory,1,0,Physics Bldg 212,Jongsoo Yoon+1,1100,1250,2,2231
+724,PHYS,2040,Basic Physics Laboratory II,10406,8,Laboratory,1,2,Physics Bldg 212,Jongsoo Yoon+1,1300,1450,2,2231
+725,PHYS,2040,Basic Physics Laboratory II,10407,9,Laboratory,1,2,Physics Bldg 212,Jongsoo Yoon+1,1500,1650,2,2231
+726,PHYS,2040,Basic Physics Laboratory II,10408,10,Laboratory,1,2,Physics Bldg 212,Jongsoo Yoon+1,1700,1850,2,2231
+727,PHYS,2040,Basic Physics Laboratory II,10409,11,Laboratory,1,2,Physics Bldg 212,Jongsoo Yoon+1,900,1050,3,2231
+728,PHYS,2040,Basic Physics Laboratory II,10410,12,Laboratory,1,2,Physics Bldg 212,Jongsoo Yoon+1,1100,1250,3,2231
+729,PHYS,2040,Basic Physics Laboratory II,10411,13,Laboratory,1,2,Physics Bldg 212,Jongsoo Yoon+1,1300,1450,3,2231
+730,PHYS,2040,Basic Physics Laboratory II,10412,14,Laboratory,1,2,Physics Bldg 212,Jongsoo Yoon+1,1500,1650,3,2231
+731,PHYS,2040,Basic Physics Laboratory II,10413,15,Laboratory,1,2,Physics Bldg 212,Jongsoo Yoon+1,1700,1850,3,2231
+732,PHYS,2040,Basic Physics Laboratory II,10414,16,Laboratory,1,2,Physics Bldg 212,Jongsoo Yoon+1,1300,1450,4,2231
+733,PHYS,2040,Basic Physics Laboratory II,10415,17,Laboratory,1,2,Physics Bldg 212,Jongsoo Yoon+1,1500,1650,4,2231
+734,PHYS,2419,General Physics II Workshop,11558,1,Laboratory,1,2,Physics Bldg 213,Maksim Bychkov,1000,1150,1,2232
+735,PHYS,2419,General Physics II Workshop,11559,2,Laboratory,1,2,Physics Bldg 213,Maksim Bychkov,1200,1350,1,2232
+736,PHYS,2419,General Physics II Workshop,11560,3,Laboratory,1,2,Physics Bldg 213,Maksim Bychkov,1400,1550,1,2232
+737,PHYS,2419,General Physics II Workshop,11561,4,Laboratory,1,2,Physics Bldg 213,Maksim Bychkov,1600,1750,1,2232
+738,PHYS,2419,General Physics II Workshop,11562,5,Laboratory,1,2,Physics Bldg 213,Maksim Bychkov,1800,1950,1,2232
+739,PHYS,2419,General Physics II Workshop,18948,6,Laboratory,1,0,Physics Bldg 213,Maksim Bychkov,2000,2150,1,2232
+740,PHYS,2640,Elementary Laboratory II,10417,101,Laboratory,0,8,Physics Bldg 216,Rick Marshall+1,1400,1750,1,2233
+741,PHYS,2640,Elementary Laboratory II,10418,102,Laboratory,0,8,Physics Bldg 216,Preetha Saha+1,1400,1750,2,2233
+742,PHYS,2640,Elementary Laboratory II,13136,103,Laboratory,0,8,Physics Bldg 216,Evan Wolfe+1,1400,1750,3,2233
+743,PHYS,2640,Elementary Laboratory II,13137,104,Laboratory,0,0,Physics Bldg 216,Rick Marshall,1400,1750,4,2233
+744,PHYS,2660,Fundamentals of Scientific Computing,10420,101,Laboratory,0,24,Physics Bldg 022C,Robert Group,1230,1400,4,2234
+745,PHYS,2660,Fundamentals of Scientific Computing,10421,102,Laboratory,0,24,Physics Bldg 022C,Robert Group,1415,1545,4,2234
+746,PHYS,2660,Fundamentals of Scientific Computing,18953,103,Laboratory,0,0,Physics Bldg 022C,Robert Group,1600,1730,4,2234
+747,PHYS,3180,Intermediate Laboratory II,10423,1,Laboratory,3,21,Physics Bldg 208,Jongsoo Yoon,1400,1650,"2, 4",2236
+748,PHYS,5640,Computational Physics II,10427,1,Laboratory,3,20,Physics Bldg 022C,Robert Hirosky,1200,1315,"1, 3",2292
+749,PLAP,3140,Mass Media and American Politics,13596,101,Discussion,0,20,Gibson Hall 142,Richard Burke,2000,2050,3,2360
+750,PLAP,3140,Mass Media and American Politics,13597,102,Discussion,0,20,New Cabell Hall 027,Brian Munis,1700,1750,3,2360
+751,PLAP,3140,Mass Media and American Politics,13598,103,Discussion,0,20,New Cabell Hall 027,Brian Munis,1800,1850,3,2360
+752,PLAP,3140,Mass Media and American Politics,13599,104,Discussion,0,20,New Cabell Hall 027,Brian Munis,1900,1950,3,2360
+753,PLAP,3140,Mass Media and American Politics,13600,105,Discussion,0,20,Gibson Hall 142,Richard Burke,2000,2050,4,2360
+754,PLAP,3140,Mass Media and American Politics,13601,106,Discussion,0,20,New Cabell Hall 232,Rachel Smilan-Goldstein,1700,1750,4,2360
+755,PLAP,3140,Mass Media and American Politics,13602,107,Discussion,0,20,New Cabell Hall 209,Rachel Smilan-Goldstein,1800,1850,4,2360
+756,PLAP,3140,Mass Media and American Politics,13603,108,Discussion,0,20,New Cabell Hall 183,Rachel Smilan-Goldstein,1900,1950,4,2360
+757,PLAP,3140,Mass Media and American Politics,13604,109,Discussion,0,20,Bryan Hall 328,Richard Burke,1100,1150,5,2360
+758,PLCP,3012,The Politics of Developing Areas,18983,101,Discussion,0,20,Nau Hall 142,Hayley Elszasz,2000,2050,3,2393
+759,PLCP,3012,The Politics of Developing Areas,18984,102,Discussion,0,20,Cocke Hall 115,Hayley Elszasz,1700,1750,3,2393
+760,PLCP,3012,The Politics of Developing Areas,18985,103,Discussion,0,20,New Cabell Hall 315,Shiran Ren,1300,1350,5,2393
+761,PLCP,3012,The Politics of Developing Areas,18986,104,Discussion,0,20,Gibson Hall 142,Hayley Elszasz,1900,1950,3,2393
+762,PLCP,3012,The Politics of Developing Areas,18987,105,Discussion,0,20,Nau Hall 142,Sally Bonsall,2000,2050,4,2393
+763,PLCP,3012,The Politics of Developing Areas,18988,106,Discussion,0,20,Nau Hall 242,Shiran Ren,1700,1750,4,2393
+764,PLCP,3012,The Politics of Developing Areas,18989,107,Discussion,0,20,Cocke Hall 101,Shiran Ren,1800,1850,4,2393
+765,PLCP,3012,The Politics of Developing Areas,18990,108,Discussion,0,20,New Cabell Hall 287,Sally Bonsall,1900,1950,4,2393
+766,PLCP,3012,The Politics of Developing Areas,18991,109,Discussion,0,20,Gibson Hall 241,Sally Bonsall,1400,1450,5,2393
+767,PLCP,3012,The Politics of Developing Areas,18992,110,Discussion,0,20,New Cabell Hall 411,Nicole Demitry,1500,1550,5,2393
+768,PLCP,3012,The Politics of Developing Areas,18993,111,Discussion,0,20,New Cabell Hall 107,Nicole Demitry,1600,1650,5,2393
+769,PLCP,3012,The Politics of Developing Areas,18994,112,Discussion,0,20,New Cabell Hall 107,Nicole Demitry,1700,1750,5,2393
+770,PLCP,3110,The Politics of Western Europe,10439,105,Discussion,0,20,Cocke Hall 115,Firat Kimya,1800,1850,4,2394
+771,PLCP,3110,The Politics of Western Europe,10438,106,Discussion,0,20,New Cabell Hall 395,Firat Kimya,1700,1750,4,2394
+772,PLCP,3110,The Politics of Western Europe,12253,107,Discussion,0,20,Cocke Hall 115,Simonas Cepenas,1800,1850,3,2394
+773,PLCP,3110,The Politics of Western Europe,12254,108,Discussion,0,20,Nau Hall 142,Simonas Cepenas,1900,1950,3,2394
+774,PLCP,3110,The Politics of Western Europe,12255,109,Discussion,0,20,New Cabell Hall 211,Simonas Cepenas,2000,2050,3,2394
+775,PLCP,3110,The Politics of Western Europe,13287,110,Discussion,0,20,Nau Hall 241,Firat Kimya,1000,1050,5,2394
+776,PLIR,2020,Foreign Policies of the Powers,19004,101,Discussion,0,20,New Cabell Hall 383,David Stiefel,1600,1650,3,2417
+777,PLIR,2020,Foreign Policies of the Powers,19002,102,Discussion,0,20,Nau Hall 141,Alexis Jihye Yang,2000,2050,3,2417
+778,PLIR,2020,Foreign Policies of the Powers,19003,103,Discussion,0,20,Nau Hall 242,David Stiefel,1800,1850,3,2417
+779,PLIR,2020,Foreign Policies of the Powers,19005,104,Discussion,0,20,Nau Hall 141,David Stiefel,1900,1950,3,2417
+780,PLIR,2020,Foreign Policies of the Powers,19006,105,Discussion,0,20,Nau Hall 142,Ruixing Cao,1600,1650,4,2417
+781,PLIR,2020,Foreign Policies of the Powers,19007,106,Discussion,0,20,Gibson Hall 241,Ruixing Cao,1700,1750,4,2417
+782,PLIR,2020,Foreign Policies of the Powers,19008,107,Discussion,0,20,Nau Hall 241,Alexis Jihye Yang,1800,1850,4,2417
+783,PLIR,2020,Foreign Policies of the Powers,19009,108,Discussion,0,20,New Cabell Hall 187,Alexis Jihye Yang,1900,1950,4,2417
+784,PLIR,2020,Foreign Policies of the Powers,19010,109,Discussion,0,20,Nau Hall 141,Ruixing Cao,1400,1450,5,2417
+785,PLIR,2030,International Relations of East Asia,19015,101,Discussion,0,20,New Cabell Hall 191,Yuxing Liang,2000,2050,4,2418
+786,PLIR,2030,International Relations of East Asia,19016,102,Discussion,0,20,New Cabell Hall 207,Sunggun Park,1700,1750,5,2418
+787,PLIR,2030,International Relations of East Asia,19017,103,Discussion,0,20,Gibson Hall 241,Sunggun Park,1600,1650,4,2418
+788,PLIR,2030,International Relations of East Asia,19018,104,Discussion,0,20,Nau Hall 142,Sunggun Park,1700,1750,4,2418
+789,PLIR,2030,International Relations of East Asia,19019,105,Discussion,0,20,New Cabell Hall 395,Yuxing Liang,1800,1850,4,2418
+790,PLIR,2030,International Relations of East Asia,19020,106,Discussion,0,20,New Cabell Hall 207,Yuxing Liang,1900,1950,4,2418
+791,PLIR,3310,Ethics and Human Rights in World Politics,10451,104,Discussion,0,20,New Cabell Hall 411,Tolu Odukoya,2000,2050,3,2419
+792,PLIR,3310,Ethics and Human Rights in World Politics,10452,105,Discussion,0,20,New Cabell Hall 027,Nicola Nones,1900,1950,4,2419
+793,PLIR,3310,Ethics and Human Rights in World Politics,10453,106,Discussion,0,20,Nau Hall 242,Tolu Odukoya,1600,1650,3,2419
+794,PLIR,3310,Ethics and Human Rights in World Politics,10454,107,Discussion,0,20,New Cabell Hall 283,Tolu Odukoya,1900,1950,3,2419
+795,PLIR,3310,Ethics and Human Rights in World Politics,10455,108,Discussion,0,20,New Cabell Hall 027,Nicola Nones,1700,1750,4,2419
+796,PLIR,3310,Ethics and Human Rights in World Politics,10456,109,Discussion,0,20,Gibson Hall 241,Christopher Dictus,1300,1350,5,2419
+797,PLIR,3310,Ethics and Human Rights in World Politics,12183,110,Discussion,0,20,Nau Hall 142,Christopher Dictus,1200,1250,5,2419
+798,PLIR,3310,Ethics and Human Rights in World Politics,12256,111,Discussion,0,20,Nau Hall 242,Nicola Nones,1800,1850,4,2419
+799,PLIR,3310,Ethics and Human Rights in World Politics,12257,112,Discussion,0,20,Nau Hall 142,Christopher Dictus,1000,1050,5,2419
+800,PLPT,1010,Introduction to Political Theory,19028,101,Discussion,0,20,New Cabell Hall 291,Alexander Bleiberg,1600,1650,3,2438
+801,PLPT,1010,Introduction to Political Theory,19029,102,Discussion,0,20,New Cabell Hall 291,Amanuel Gebremichael,2000,2050,3,2438
+802,PLPT,1010,Introduction to Political Theory,19030,103,Discussion,0,20,New Cabell Hall 209,Amanuel Gebremichael,1800,1850,3,2438
+803,PLPT,1010,Introduction to Political Theory,19031,104,Discussion,0,20,New Cabell Hall 287,Amanuel Gebremichael,1900,1950,3,2438
+804,PLPT,1010,Introduction to Political Theory,19032,105,Discussion,0,20,Gibson Hall 142,Alexander Bleiberg,1600,1650,4,2438
+805,PLPT,1010,Introduction to Political Theory,19033,106,Discussion,0,20,New Cabell Hall 303,Alexander Bleiberg,1700,1750,4,2438
+806,PLPT,1010,Introduction to Political Theory,19034,107,Discussion,0,20,Gibson Hall 141,Mylene Freeman,1800,1850,4,2438
+807,PLPT,1010,Introduction to Political Theory,19035,108,Discussion,0,20,New Cabell Hall 211,Mylene Freeman,1900,1950,4,2438
+808,PLPT,1010,Introduction to Political Theory,19036,109,Discussion,0,20,Gibson Hall 242,Mylene Freeman,2000,2050,4,2438
+809,PLPT,3010,Ancient and Medieval Political Theory,19042,101,Discussion,0,20,Gibson Hall 242,Janet Lawler,1900,1950,3,2439
+810,PLPT,3010,Ancient and Medieval Political Theory,19043,102,Discussion,0,20,Gibson Hall 141,Janet Lawler,1800,1850,3,2439
+811,PLPT,3010,Ancient and Medieval Political Theory,19044,103,Discussion,0,20,Gibson Hall 242,Janet Lawler,2000,2050,3,2439
+812,PLPT,3030,Contemporary Political Thought,19047,101,Discussion,0,20,Gibson Hall 141,Ryan Russell,1900,1950,3,2440
+813,PLPT,3030,Contemporary Political Thought,19048,102,Discussion,0,20,Monroe Hall 114,Ryan Russell,1700,1750,3,2440
+814,PLPT,3030,Contemporary Political Thought,19049,103,Discussion,0,20,Nau Hall 141,Ryan Russell,1800,1850,3,2440
+815,PSYC,3210,RM: Psychobiology Laboratory,12308,1,Laboratory,3,24,Contact Department,Erin Clabough,900,1130,2,2527
+816,PSYC,7440,Psychological Assessment,10482,101,Laboratory,0,15,Millmont Cottage 161,Sean Womack,900,1100,5,2606
+817,PSYC,7450,Psychological Intervention II,19549,101,Laboratory,0,15,Contact Department,Nauder Namaky,1400,1630,4,2607
+818,PSYC,7720,Quantitative Methods II: Experimental Design,10486,101,Laboratory,0,15,Millmont 123,Staff,1800,2000,4,2622
+819,PSYC,7720,Quantitative Methods II: Experimental Design,10487,102,Laboratory,0,15,Millmont 123,Staff,900,1100,5,2622
+820,RELB,2100,Buddhism,12302,101,Discussion,0,20,New Cabell Hall 303,Ngawang Sonam,2000,2050,3,2733
+821,RELB,2100,Buddhism,12303,102,Discussion,0,20,Cocke Hall 115,Erin Burke,1400,1450,5,2733
+822,RELB,2100,Buddhism,12304,103,Discussion,0,20,Minor Hall 130,Andrew Mills,1100,1150,5,2733
+823,RELB,2100,Buddhism,12305,104,Discussion,0,20,New Cabell Hall 207,Erin Burke,1300,1350,3,2733
+824,RELB,2100,Buddhism,12306,105,Discussion,0,20,Gibson Hall 241,Andrew Mills,1100,1150,3,2733
+825,RELB,2100,Buddhism,12307,106,Discussion,0,20,Nau Hall 241,Andrew Mills,1200,1250,3,2733
+826,RELB,2100,Buddhism,12862,107,Discussion,0,20,Nau Hall 242,Erin Burke,1200,1250,5,2733
+827,RELB,2100,Buddhism,12863,108,Discussion,0,20,Nau Hall 242,Ngawang Sonam,1300,1350,5,2733
+828,RELB,2100,Buddhism,12864,109,Discussion,0,19,New Cabell Hall 115,Ngawang Sonam,1900,1950,3,2733
+829,RELB,2100,Buddhism,13815,110,Discussion,0,20,Gibson Hall 242,James MacNee,1800,1850,4,2733
+830,RELB,2100,Buddhism,13847,111,Discussion,0,20,New Cabell Hall 291,James MacNee,1900,1950,4,2733
+831,RELB,2100,Buddhism,13848,112,Discussion,0,20,New Cabell Hall 111,James MacNee,2000,2050,4,2733
+832,RELC,1220,New Testament and Early Christianity,12570,101,Discussion,0,20,New Cabell Hall 411,Jonathan Holste,1800,1850,4,2738
+833,RELC,1220,New Testament and Early Christianity,12571,102,Discussion,0,20,New Cabell Hall 283,Jonathan Holste,1900,1950,4,2738
+834,RELC,1220,New Testament and Early Christianity,12572,103,Discussion,0,20,New Cabell Hall 107,Jonathan Holste,2000,2050,4,2738
+835,RELC,1220,New Testament and Early Christianity,12573,104,Discussion,0,20,Nau Hall 241,Kerwin Jr Holmes,1200,1250,5,2738
+836,RELC,1220,New Testament and Early Christianity,12574,105,Discussion,0,20,Gibson Hall 142,Kerwin Jr Holmes,1300,1350,5,2738
+837,RELC,1220,New Testament and Early Christianity,12575,106,Discussion,0,20,Bryan Hall 328,Kerwin Jr Holmes,1400,1450,5,2738
+838,RELC,1220,New Testament and Early Christianity,12576,107,Discussion,0,20,Nau Hall 142,Avram Schwartz,1800,1850,3,2738
+839,RELC,1220,New Testament and Early Christianity,12577,108,Discussion,0,20,New Cabell Hall 411,Avram Schwartz,1900,1950,3,2738
+840,RELC,1220,New Testament and Early Christianity,12578,109,Discussion,0,20,New Cabell Hall 115,Avram Schwartz,2000,2050,3,2738
+841,RELC,2215,Mormonism and American Culture,18390,101,Discussion,0,20,Nau Hall 241,Staff,1800,1850,3,2739
+842,RELC,2215,Mormonism and American Culture,18391,102,Discussion,0,20,New Cabell Hall 415,Staff,1900,1950,3,2739
+843,RELC,2215,Mormonism and American Culture,18394,103,Discussion,0,20,New Cabell Hall 183,Staff,2000,2050,3,2739
+844,RELG,1040,Introduction to Eastern Religious Traditions,18286,101,Discussion,0,20,New Cabell Hall 115,Zarif Rahman,2000,2050,4,2753
+845,RELG,1040,Introduction to Eastern Religious Traditions,18287,102,Discussion,0,20,New Cabell Hall 058,Zarif Rahman,1800,1850,4,2753
+846,RELG,1040,Introduction to Eastern Religious Traditions,18288,103,Discussion,0,20,New Cabell Hall 407,Zarif Rahman,1900,1950,4,2753
+847,RELG,1040,Introduction to Eastern Religious Traditions,18289,104,Discussion,0,20,Monroe Hall 114,Matthew Leveille,1800,1850,3,2753
+848,RELG,1040,Introduction to Eastern Religious Traditions,18290,105,Discussion,0,20,Monroe Hall 114,Matthew Leveille,2000,2050,3,2753
+849,RELG,1040,Introduction to Eastern Religious Traditions,18291,106,Discussion,0,20,Monroe Hall 114,Matthew Leveille,1900,1950,3,2753
+850,RELG,1040,Introduction to Eastern Religious Traditions,18292,107,Discussion,0,20,Maury Hall 113,Miguel Sawaya,1200,1250,5,2753
+851,RELG,1040,Introduction to Eastern Religious Traditions,18293,108,Discussion,0,20,Maury Hall 113,Miguel Sawaya,1300,1350,5,2753
+852,RELG,1040,Introduction to Eastern Religious Traditions,18294,109,Discussion,0,20,Maury Hall 113,Miguel Sawaya,1400,1450,5,2753
+853,RELG,1040,Introduction to Eastern Religious Traditions,18295,110,Discussion,0,20,New Cabell Hall 415,Eliot Davenport,1800,1850,4,2753
+854,RELG,1040,Introduction to Eastern Religious Traditions,18296,111,Discussion,0,20,New Cabell Hall 411,Eliot Davenport,1900,1950,4,2753
+855,RELG,1040,Introduction to Eastern Religious Traditions,18297,112,Discussion,0,20,New Cabell Hall 415,Eliot Davenport,2000,2050,4,2753
+856,RELG,2160,Religion in American Life and Thought from 1865 to the Present,10501,101,Discussion,0,20,New Cabell Hall 187,Creighton Coleman,2000,2050,4,2754
+857,RELG,2160,Religion in American Life and Thought from 1865 to the Present,10500,102,Discussion,0,20,New Cabell Hall 132,Creighton Coleman,1800,1850,4,2754
+858,RELG,2160,Religion in American Life and Thought from 1865 to the Present,11473,103,Discussion,0,20,New Cabell Hall 415,Creighton Coleman,1900,1950,4,2754
+859,RELG,2160,Religion in American Life and Thought from 1865 to the Present,11474,104,Discussion,0,20,Shannon House 109,Brittany Acors,1800,1850,3,2754
+860,RELG,2160,Religion in American Life and Thought from 1865 to the Present,11475,105,Discussion,0,20,Shannon House 109,Brittany Acors,1900,1950,3,2754
+861,RELG,2160,Religion in American Life and Thought from 1865 to the Present,11476,106,Discussion,0,20,Shannon House 109,Brittany Acors,2000,2050,3,2754
+862,RELG,2160,Religion in American Life and Thought from 1865 to the Present,11477,107,Discussion,0,20,TBA,Kyle Nicholas,1200,1250,5,2754
+863,RELG,2160,Religion in American Life and Thought from 1865 to the Present,11478,108,Discussion,0,20,Nau Hall 142,Kyle Nicholas,1300,1350,5,2754
+864,RELG,2160,Religion in American Life and Thought from 1865 to the Present,11479,109,Discussion,0,20,New Cabell Hall 209,Kyle Nicholas,1400,1450,5,2754
+865,RELG,2660,"""Spiritual But Not Religious"": Spirituality in America",11571,101,Discussion,0,20,New Cabell Hall 107,Mubashir Abbasi,1800,1850,4,2759
+866,RELG,2660,"""Spiritual But Not Religious"": Spirituality in America",11572,102,Discussion,0,20,Bryan Hall 235,Mubashir Abbasi,1900,1950,4,2759
+867,RELG,2660,"""Spiritual But Not Religious"": Spirituality in America",11573,103,Discussion,0,20,Bryan Hall 235,Mubashir Abbasi,2000,2050,4,2759
+868,RELG,2660,"""Spiritual But Not Religious"": Spirituality in America",11570,106,Discussion,0,20,New Cabell Hall 107,Elliott Niblock,2000,2050,3,2759
+869,RELG,2660,"""Spiritual But Not Religious"": Spirituality in America",11691,107,Discussion,0,20,Bryan Hall 235,Jason Evans,1200,1250,5,2759
+870,RELG,2660,"""Spiritual But Not Religious"": Spirituality in America",11692,108,Discussion,0,20,Bryan Hall 235,Jason Evans,1300,1350,5,2759
+871,RELG,2660,"""Spiritual But Not Religious"": Spirituality in America",11693,109,Discussion,0,20,Bryan Hall 235,Jason Evans,1400,1450,5,2759
+872,RELG,2660,"""Spiritual But Not Religious"": Spirituality in America",12806,110,Discussion,0,20,New Cabell Hall 211,Elliott Niblock,1800,1850,3,2759
+873,RELG,2660,"""Spiritual But Not Religious"": Spirituality in America",12807,111,Discussion,0,20,New Cabell Hall 315,Elliott Niblock,1900,1950,3,2759
+874,RELG,2660,"""Spiritual But Not Religious"": Spirituality in America",12808,112,Discussion,0,20,Bryan Hall 235,Maxwell Pingeon,2000,2050,3,2759
+875,RELG,2660,"""Spiritual But Not Religious"": Spirituality in America",20113,113,Discussion,0,20,Ruffner Hall 173,Maxwell Pingeon,1800,1850,3,2759
+876,RELG,2660,"""Spiritual But Not Religious"": Spirituality in America",20114,114,Discussion,0,20,Ruffner Hall 173,Maxwell Pingeon,1900,1950,3,2759
+877,RELI,2024,Jewish-Muslim Relations,18343,101,Discussion,0,20,New Cabell Hall 364,Raihan Ahmed,1800,1850,4,2787
+878,RELI,2024,Jewish-Muslim Relations,18344,102,Discussion,0,20,New Cabell Hall 364,Raihan Ahmed,1900,1950,4,2787
+879,RELI,2024,Jewish-Muslim Relations,18458,103,Discussion,0,20,New Cabell Hall 364,Raihan Ahmed,2000,2050,4,2787
+880,RELI,2085,Modern Islam: From the Age of Empires to the Present,18348,101,Discussion,0,20,New Cabell Hall 332,Essam Fahim,1800,1850,3,2788
+881,RELI,2085,Modern Islam: From the Age of Empires to the Present,18349,102,Discussion,0,20,New Cabell Hall 332,Essam Fahim,1900,1950,3,2788
+882,RELI,2085,Modern Islam: From the Age of Empires to the Present,18350,103,Discussion,0,20,New Cabell Hall 332,Essam Fahim,2000,2050,3,2788
+883,RELJ,2024,Jewish-Muslim Relations,18345,101,Discussion,0,20,New Cabell Hall 364,Raihan Ahmed,1800,1850,4,2794
+884,RELJ,2024,Jewish-Muslim Relations,18346,102,Discussion,0,20,New Cabell Hall 364,Raihan Ahmed,1900,1950,4,2794
+885,RELJ,2024,Jewish-Muslim Relations,18459,103,Discussion,0,20,New Cabell Hall 364,Raihan Ahmed,2000,2050,4,2794
+886,RUSS,1020,First-Year Russian,10506,100,Discussion,0,18,New Cabell Hall 209,Hilary McCandless-Beard,1000,1050,"1, 3, 5",2941
+887,RUSS,1020,First-Year Russian,10507,101,Discussion,0,20,Gibson Hall 142,Yuliya Walsh,1100,1150,"1, 3, 5",2941
+888,RUSS,1020,First-Year Russian,11470,102,Discussion,0,20,Gibson Hall 142,Yuliya Walsh,1200,1250,"1, 3, 5",2941
+889,RUSS,2020,Second-Year Russian,10510,100,Discussion,0,16,New Cabell Hall 044,Anna Gomboeva,1000,1050,"1, 3, 5",2943
+890,RUSS,2020,Second-Year Russian,10511,101,Discussion,0,17,Kerchof Hall 317,Aaron Thompson,1200,1250,"1, 3, 5",2943
+891,RUSS,3030,Intermediate Conversation,11630,1,Discussion,1,9,New Cabell Hall 056,Jason Schultz,1600,1650,"2, 4",2945
+892,RUTR,2730,Dostoevsky,12010,101,Discussion,0,20,Kerchof Hall 317,Valeria Provotorova,1600,1650,1,2964
+893,RUTR,2730,Dostoevsky,12011,102,Discussion,0,20,Kerchof Hall 317,Valeria Provotorova,1700,1750,1,2964
+894,RUTR,2730,Dostoevsky,12012,103,Discussion,0,20,New Cabell Hall 283,Valeria Provotorova,1700,1930,2,2964
+895,RUTR,3510,Topics in Russian Literature,12073,101,Discussion,0,20,Kerchof Hall 317,Valeria Provotorova,1600,1650,1,2968
+896,RUTR,3510,Topics in Russian Literature,12074,102,Discussion,0,20,Kerchof Hall 317,Valeria Provotorova,1700,1750,1,2968
+897,RUTR,3510,Topics in Russian Literature,12075,103,Discussion,0,20,New Cabell Hall 283,Valeria Provotorova,1700,1930,2,2968
+898,SOC,1010,Introductory Sociology,10526,101,Discussion,0,20,Dell 2 102,Jingjie Ji,1100,1150,5,2974
+899,SOC,1010,Introductory Sociology,10527,102,Discussion,0,20,New Cabell Hall 183,Yen-Yu Lin,1500,1550,5,2974
+900,SOC,1010,Introductory Sociology,11911,103,Discussion,0,20,New Cabell Hall 115,Jingjie Ji,900,950,5,2974
+901,SOC,1010,Introductory Sociology,11893,104,Discussion,0,20,New Cabell Hall 111,Jingjie Ji,800,850,5,2974
+902,SOC,1010,Introductory Sociology,12549,108,Discussion,0,20,New Cabell Hall 183,Yen-Yu Lin,1400,1450,5,2974
+903,SOC,1010,Introductory Sociology,10528,109,Discussion,0,20,New Cabell Hall 287,Yen-Yu Lin,900,950,5,2974
+904,SOC,1010,Introductory Sociology,18200,110,Discussion,0,20,New Cabell Hall 323,Su Yeone Jeon,1300,1350,1,2974
+905,SOC,1010,Introductory Sociology,18201,111,Discussion,0,20,New Cabell Hall 415,Su Yeone Jeon,900,950,1,2974
+906,SOC,1010,Introductory Sociology,18202,112,Discussion,0,20,New Cabell Hall 323,Su Yeone Jeon,1400,1450,1,2974
+907,SOC,2052,Sociology of the Family,11320,101,Discussion,0,20,New Cabell Hall 191,Di Shao,1500,1550,5,2975
+908,SOC,2052,Sociology of the Family,11902,102,Discussion,0,20,New Cabell Hall 187,Di Shao,1300,1350,5,2975
+909,SOC,2052,Sociology of the Family,11903,103,Discussion,0,20,New Cabell Hall 115,Julia Stein,800,850,5,2975
+910,SOC,2052,Sociology of the Family,11904,104,Discussion,0,20,Wilson Hall 244,Di Shao,1100,1150,5,2975
+911,SOC,2052,Sociology of the Family,11905,105,Discussion,0,20,New Cabell Hall 415,Julia Stein,900,950,5,2975
+912,SOC,2052,Sociology of the Family,11912,106,Discussion,0,20,New Cabell Hall 207,Julia Stein,1400,1450,5,2975
+913,SOC,2220,Social Problems,12554,101,Discussion,0,20,New Cabell Hall 209,Wenhao Song,900,950,5,2976
+914,SOC,2220,Social Problems,12555,102,Discussion,0,20,Kerchof Hall 317,Wenhao Song,800,850,5,2976
+915,SOC,2220,Social Problems,12556,103,Discussion,0,20,New Cabell Hall 485,Elene Kekelia,1200,1250,5,2976
+916,SOC,2220,Social Problems,18203,104,Discussion,0,20,New Cabell Hall 315,Elene Kekelia,900,950,5,2976
+917,SOC,2220,Social Problems,18204,105,Discussion,0,20,Kerchof Hall 317,Wenhao Song,1400,1450,5,2976
+918,SOC,2220,Social Problems,18205,106,Discussion,0,20,New Cabell Hall 191,Elene Kekelia,1300,1350,5,2976
+919,SOC,2230,Criminology,12557,101,Discussion,0,20,New Cabell Hall 115,Abigail Moore,1300,1350,4,2977
+920,SOC,2230,Criminology,12558,102,Discussion,0,20,New Cabell Hall 338,Vasfiye Toprak,900,950,5,2977
+921,SOC,2230,Criminology,12559,103,Discussion,0,20,New Cabell Hall 107,Abigail Moore,800,850,4,2977
+922,SOC,2230,Criminology,12560,104,Discussion,0,20,Wilson Hall 244,Abigail Moore,1400,1450,4,2977
+923,SOC,2230,Criminology,12561,105,Discussion,0,20,New Cabell Hall 211,Shayne Zaslow,1400,1450,5,2977
+924,SOC,2230,Criminology,12562,106,Discussion,0,20,Cocke Hall 101,Shayne Zaslow,1200,1250,5,2977
+925,SOC,2230,Criminology,13880,107,Discussion,0,20,New Cabell Hall 287,Vasfiye Toprak,1400,1450,5,2977
+926,SOC,2230,Criminology,13881,108,Discussion,0,20,New Cabell Hall 183,Vasfiye Toprak,800,850,5,2977
+927,SOC,2230,Criminology,13882,109,Discussion,0,20,New Cabell Hall 207,Shayne Zaslow,1500,1550,5,2977
+928,SOC,2559,New Course in Sociology,18210,101,Discussion,0,20,New Cabell Hall 383,Yapeng Wang,900,950,5,2979
+929,SOC,2559,New Course in Sociology,18211,102,Discussion,0,20,New Cabell Hall 407,Yapeng Wang,1300,1350,5,2979
+930,SOC,2559,New Course in Sociology,18212,103,Discussion,0,20,New Cabell Hall 407,Yapeng Wang,1400,1450,5,2979
+931,SOC,3020,Introduction to Social Theory,10532,101,Discussion,0,20,New Cabell Hall 485,Colin Arnold,900,950,5,2981
+932,SOC,3020,Introduction to Social Theory,10533,102,Discussion,0,20,New Cabell Hall 411,Colin Arnold,1400,1450,5,2981
+933,SOC,3020,Introduction to Social Theory,10534,103,Discussion,0,20,New Cabell Hall 211,Colin Arnold,1500,1550,5,2981
+934,SOC,3130,Introduction to Social Statistics,10536,101,Laboratory,0,18,New Cabell Hall 268,Kathryn Babineau,800,950,4,2983
+935,SOC,3130,Introduction to Social Statistics,10537,102,Laboratory,0,18,New Cabell Hall 268,Kathryn Babineau,1300,1450,4,2983
+936,SOC,3130,Introduction to Social Statistics,10538,103,Laboratory,0,18,New Cabell Hall 268,Xian Qu,1100,1250,5,2983
+937,SOC,3130,Introduction to Social Statistics,11531,104,Laboratory,0,18,New Cabell Hall 268,Xian Qu,1400,1550,5,2983
+938,SOC,3410,Race and Ethnic Relations,18206,101,Discussion,0,20,New Cabell Hall 207,Josh Chen,900,950,4,2985
+939,SOC,3410,Race and Ethnic Relations,18207,102,Discussion,0,20,New Cabell Hall 183,Josh Chen,1300,1350,4,2985
+940,SOC,3410,Race and Ethnic Relations,18208,103,Discussion,0,20,Kerchof Hall 317,Josh Chen,800,850,4,2985
+941,SOC,3700,Health and Society,13277,101,Discussion,0,20,Kerchof Hall 317,Heidi Nicholls,900,950,5,2988
+942,SOC,3700,Health and Society,13278,102,Discussion,0,20,New Cabell Hall 411,Heidi Nicholls,1300,1350,5,2988
+943,SOC,3700,Health and Society,13279,103,Discussion,0,20,New Cabell Hall 415,Heidi Nicholls,1400,1450,5,2988
+944,SOC,5120,Intermediate Statistics,10540,101,Laboratory,0,12,Bryan Hall 203,Kathryn Babineau,1400,1550,5,3008
+945,STAT,2020,Statistics for Biologists,12100,101,Laboratory,0,108,McLeod Hall 2004,Maria Ferrara,1700,1750,2,3198
+946,STAT,2020,Statistics for Biologists,12101,102,Laboratory,0,108,McLeod Hall 2004,Maria Ferrara,1800,1850,2,3198
+947,STAT,2020,Statistics for Biologists,12392,103,Laboratory,0,108,McLeod Hall 2004,Maria Ferrara,1900,1950,2,3198
+948,STAT,2120,Introduction to Statistical Analysis,10575,101,Laboratory,0,95,Wilson Hall 325,Richard Ross,1200,1250,"1, 3",3201
+949,STAT,2120,Introduction to Statistical Analysis,10576,102,Laboratory,0,95,Wilson Hall 325,Richard Ross,1500,1550,"1, 3",3201
+950,STAT,2120,Introduction to Statistical Analysis,10577,103,Laboratory,0,95,Wilson Hall 325,Richard Ross,1600,1650,"1, 3",3201
+951,STAT,2120,Introduction to Statistical Analysis,10579,105,Laboratory,0,95,Wilson Hall 325,Richard Ross,1300,1350,"1, 3",3201
+952,STAT,2120,Introduction to Statistical Analysis,10574,106,Laboratory,0,95,Wilson Hall 325,Richard Ross,1400,1450,"1, 3",3201
+953,SOC,2052,Sociology of the Family,11320,101,Discussion,0,20,New Cabell Hall 191,Di Shao,1500,1550,5,3246
+954,SOC,2052,Sociology of the Family,11902,102,Discussion,0,20,New Cabell Hall 187,Di Shao,1300,1350,5,3246
+955,SOC,2052,Sociology of the Family,11903,103,Discussion,0,20,New Cabell Hall 115,Julia Stein,800,850,5,3246
+956,SOC,2052,Sociology of the Family,11904,104,Discussion,0,20,Wilson Hall 244,Di Shao,1100,1150,5,3246
+957,SOC,2052,Sociology of the Family,11905,105,Discussion,0,20,New Cabell Hall 415,Julia Stein,900,950,5,3246
+958,SOC,2052,Sociology of the Family,11912,106,Discussion,0,20,New Cabell Hall 207,Julia Stein,1400,1450,5,3246
+959,WGS,2100,Introduction to Gender and Sexuality Studies,11745,101,Discussion,0,20,New Cabell Hall 411,Laura Ornee,1800,1850,3,3249
+960,WGS,2100,Introduction to Gender and Sexuality Studies,11746,102,Discussion,0,20,New Cabell Hall 111,Aldona Dye,830,920,4,3249
+961,WGS,2100,Introduction to Gender and Sexuality Studies,11747,103,Discussion,0,20,New Cabell Hall 107,Laura Ornee,1700,1750,4,3249
+962,WGS,2100,Introduction to Gender and Sexuality Studies,11914,104,Discussion,0,20,New Cabell Hall 115,Laura Ornee,1700,1750,3,3249
+963,WGS,2100,Introduction to Gender and Sexuality Studies,11915,105,Discussion,0,20,New Cabell Hall 111,Aldona Dye,1900,1950,4,3249
+964,WGS,2100,Introduction to Gender and Sexuality Studies,11916,106,Discussion,0,20,New Cabell Hall 111,Aldona Dye,1800,1850,4,3249
+965,BME,3090,Biomedical Engineering Integrated Design and Experimental Analysis (IDEAS) Laboratory II,15170,101,Laboratory,0,32,Thornton Hall Room A006,Timothy Allen,1400,1800,2,3331
+966,BME,3090,Biomedical Engineering Integrated Design and Experimental Analysis (IDEAS) Laboratory II,15171,102,Laboratory,0,32,Thornton Hall Room A006,Timothy Allen,1400,1800,3,3331
+967,BME,3090,Biomedical Engineering Integrated Design and Experimental Analysis (IDEAS) Laboratory II,15172,103,Laboratory,0,32,Thornton Hall Room A006,Timothy Allen,1400,1800,4,3331
+968,CHE,3398,Chemical Engineering Laboratory I,15182,101,Laboratory,0,30,Wilsdorf Hall 301,Eric Anderson+1,1400,1800,1,3452
+969,CHE,3398,Chemical Engineering Laboratory I,15183,102,Laboratory,0,30,Wilsdorf Hall 301,Eric Anderson+1,1400,1800,3,3452
+970,CE,2110,Environmental Engineering Laboratory,15185,1,Laboratory,1,25,Thornton Hall D008,Teresa Culver,1000,1150,1,3527
+971,CE,2110,Environmental Engineering Laboratory,15186,2,Laboratory,1,25,Thornton Hall D008,Teresa Culver,1200,1350,1,3527
+972,CE,2110,Environmental Engineering Laboratory,20374,3,Laboratory,1,25,Thornton Hall D008,Teresa Culver,1500,1650,1,3527
+973,CE,3402,Transportation Infrastructure Design Workshop,15595,1,Laboratory,1,24,Mechanical Engr Bldg 213,Tong Chen,1400,1525,4,3535
+974,CS,1110,Introduction to Programming,15050,100,Laboratory,0,44,Olsson Hall 001,Raymond Pettit,930,1045,4,3643
+975,CS,1110,Introduction to Programming,15051,101,Laboratory,0,44,Olsson Hall 001,Raymond Pettit,1100,1215,4,3643
+976,CS,1110,Introduction to Programming,15052,102,Laboratory,0,44,Olsson Hall 001,Raymond Pettit,1230,1345,4,3643
+977,CS,1110,Introduction to Programming,15053,103,Laboratory,0,44,Olsson Hall 001,Raymond Pettit,1400,1515,4,3643
+978,CS,1110,Introduction to Programming,15054,104,Laboratory,0,44,Olsson Hall 001,Raymond Pettit,1530,1645,4,3643
+979,CS,1110,Introduction to Programming,15055,105,Laboratory,0,44,Olsson Hall 001,Raymond Pettit,1700,1815,4,3643
+980,CS,1110,Introduction to Programming,15056,106,Laboratory,0,44,Olsson Hall 001,Raymond Pettit,1830,1945,4,3643
+981,CS,1110,Introduction to Programming,15057,107,Laboratory,0,44,Mechanical Engr Bldg 213,Raymond Pettit,1230,1345,4,3643
+982,CS,1110,Introduction to Programming,15058,108,Laboratory,0,44,Mechanical Engr Bldg 213,Raymond Pettit,1530,1645,4,3643
+983,CS,1110,Introduction to Programming,15060,109,Laboratory,0,44,Mechanical Engr Bldg 213,Raymond Pettit,1700,1815,4,3643
+984,CS,1110,Introduction to Programming,15175,110,Laboratory,0,44,Mechanical Engr Bldg 213,Raymond Pettit,1830,1945,4,3643
+985,CS,1110,Introduction to Programming,16009,111,Laboratory,0,44,Olsson Hall 009,Raymond Pettit,1700,1815,4,3643
+986,CS,2110,Software Development Methods,15065,101,Laboratory,0,141,Rice Hall 130,Nada Basit,1900,2045,1,3656
+987,CS,2110,Software Development Methods,15066,102,Laboratory,0,141,Rice Hall 130,Nada Basit,1900,2045,2,3656
+988,CS,2110,Software Development Methods,15486,103,Laboratory,0,141,Rice Hall 130,Nada Basit,1700,1845,1,3656
+989,CS,2110,Software Development Methods,15558,104,Laboratory,0,141,Rice Hall 130,Nada Basit,1715,1900,2,3656
+990,CS,2110,Software Development Methods,19899,105,Laboratory,0,72,Olsson Hall 009,Nada Basit,1700,1845,1,3656
+991,CS,2150,Program and Data Representation,15069,101,Laboratory,0,44,Olsson Hall 001,Aaron Bloomfield,930,1045,2,3658
+992,CS,2150,Program and Data Representation,15070,102,Laboratory,0,44,Olsson Hall 001,Aaron Bloomfield,1100,1215,2,3658
+993,CS,2150,Program and Data Representation,15071,103,Laboratory,0,44,Olsson Hall 001,Aaron Bloomfield,1230,1345,2,3658
+994,CS,2150,Program and Data Representation,15487,104,Laboratory,0,44,Olsson Hall 001,Aaron Bloomfield,1400,1515,2,3658
+995,CS,2150,Program and Data Representation,15574,105,Laboratory,0,44,Olsson Hall 001,Aaron Bloomfield,1530,1645,2,3658
+996,CS,2150,Program and Data Representation,15764,106,Laboratory,0,66,Olsson Hall 009,Aaron Bloomfield,1700,1815,2,3658
+997,CS,2150,Program and Data Representation,15840,107,Laboratory,0,66,Olsson Hall 009,Aaron Bloomfield,1830,1945,2,3658
+998,CS,2150,Program and Data Representation,16108,108,Laboratory,0,44,Olsson Hall 001,Aaron Bloomfield,800,915,2,3658
+999,CS,2501,Special Topics in Computer Science,19867,201,Laboratory,0,40,Olsson Hall 001,Luther Tychonievich,1700,1815,2,3660
+1000,CS,2501,Special Topics in Computer Science,19868,202,Laboratory,0,40,Olsson Hall 001,Luther Tychonievich,1830,1945,2,3660
+1001,CS,3240,Advanced Software Development Techniques,15074,101,Laboratory,0,80,Olsson Hall 009,Mark Sherriff,1400,1515,1,3667
+1002,CS,3240,Advanced Software Development Techniques,15075,102,Laboratory,0,80,Olsson Hall 009,Mark Sherriff,1530,1645,1,3667
+1003,CS,3240,Advanced Software Development Techniques,16053,103,Laboratory,0,80,Thornton Hall A120,Mark Sherriff,1700,1815,1,3667
+1004,CS,3330,Computer Architecture,15621,101,Laboratory,0,45,Olsson Hall 001,Samira Khan,1400,1515,3,3668
+1005,CS,3330,Computer Architecture,15622,102,Laboratory,0,45,Olsson Hall 001,Samira Khan,1530,1645,3,3668
+1006,CS,3330,Computer Architecture,15926,103,Laboratory,0,45,Olsson Hall 001,Samira Khan,1230,1345,3,3668
+1007,CS,3330,Computer Architecture,15741,201,Laboratory,0,70,Olsson Hall 011,Ashish Venkat+1,1700,1815,3,3669
+1008,CS,3330,Computer Architecture,15844,202,Laboratory,0,70,Olsson Hall 011,Ashish Venkat+1,1830,1945,3,3669
+1009,CS,4730,Computer Game Design,19926,102,Laboratory,0,48,Rice Hall 120,Mark Floryan,1230,1345,4,3690
+1010,CS,4730,Computer Game Design,19927,103,Laboratory,0,35,Rice Hall 340,Mark Floryan,1400,1515,4,3690
+1011,ECE,3251,Electromagnetic Energy Conversion Lab,15520,1,Laboratory,1,14,Thornton Hall Room B114,Harry Powell,1100,1345,5,4080
+1012,ECE,3251,Electromagnetic Energy Conversion Lab,15717,2,Laboratory,1,14,Thornton Hall Room B114,Harry Powell,900,1200,4,4080
+1013,ECE,3251,Electromagnetic Energy Conversion Lab,16383,3,Laboratory,1,14,Thornton Hall Room B114,Harry Powell,1300,1600,3,4080
+1014,EC,4502, Digital Control and Robotics Lab,16236,2,Laboratory,1,20,Thornton Hall A120,Gang Tao,1800,2100,2,4093
+1015,ECE,4550,Applied Research and Design Lab,15823,1,Laboratory,1,35,Rice Hall 240,Mircea Stan,1230,1345,4,4097
+1016,ECE,4550,Applied Research and Design Lab,15910,2,Laboratory,1,30,Rice Hall 240,Mircea Stan,1230,1345,2,4097
+1017,ECE,6502,Special Topics in Electrical and Computer Engineering,15911,4,Laboratory,3,10,Contact Department,Mircea Stan,1230,1345,"2, 4",4114
+1018,EC,6502, Digital Control and Robotics Lab,16237,7,Laboratory,1,20,Thornton Hall A120,Gang Tao,1800,2100,2,4115
+1019,MSE,3101,Materials Science Investigations,15711,100,Laboratory,0,6,Contact Department,Jon Ihlefeld,1000,1200,2,4246
+1020,MSE,3101,Materials Science Investigations,15712,101,Laboratory,0,6,Contact Department,Jon Ihlefeld,1300,1500,2,4246
+1021,MSE,3101,Materials Science Investigations,15713,102,Laboratory,0,6,Contact Department,Jon Ihlefeld,1500,1700,2,4246
+1022,MSE,3101,Materials Science Investigations,15714,103,Laboratory,0,6,Contact Department,Jon Ihlefeld,1000,1200,3,4246
+1023,MSE,3101,Materials Science Investigations,15715,104,Laboratory,0,6,Contact Department,Jon Ihlefeld,1300,1500,4,4246
+1024,MSE,3101,Materials Science Investigations,15783,105,Laboratory,0,6,Contact Department,Jon Ihlefeld,1530,1730,4,4246
+1025,MAE,2330,Mechanics Laboratory,16166,101,Laboratory,0,24,Wilsdorf Hall 103,Natasha Smith,1300,1450,1,4339
+1026,MAE,2330,Mechanics Laboratory,16167,102,Laboratory,0,24,Wilsdorf Hall 103,Natasha Smith,1500,1650,1,4339
+1027,MAE,2330,Mechanics Laboratory,16168,103,Laboratory,0,24,Wilsdorf Hall 103,Natasha Smith,1700,1850,1,4339
+1028,MAE,2330,Mechanics Laboratory,16169,105,Laboratory,0,24,Wilsdorf Hall 103,Natasha Smith,1200,1350,3,4339
+1029,MAE,2330,Mechanics Laboratory,16170,106,Laboratory,0,24,Wilsdorf Hall 103,Natasha Smith,1400,1550,3,4339
+1030,MAE,2330,Mechanics Laboratory,16171,107,Laboratory,0,24,Wilsdorf Hall 103,Natasha Smith,1600,1750,3,4339
+1031,MAE,3820,Aerodynamics Laboratory,15110,101,Laboratory,0,25,Mechanical Engr Bldg 103,Michael Momot,1400,1600,3,4348
+1032,MAE,3820,Aerodynamics Laboratory,15111,102,Laboratory,0,25,Mechanical Engr Bldg 103,Michael Momot,1600,1800,3,4348
+1033,MAE,3840,Mechanical Engineering Laboratory,15113,101,Laboratory,0,24,Mechanical Engr Bldg 103,Michael Momot,1400,1600,2,4349
+1034,MAE,3840,Mechanical Engineering Laboratory,15114,102,Laboratory,0,24,Mechanical Engr Bldg 103,Michael Momot,1600,1800,2,4349
+1035,MAE,3840,Mechanical Engineering Laboratory,15115,103,Laboratory,0,24,Mechanical Engr Bldg 103,Michael Momot,1400,1600,4,4349
+1036,MAE,3840,Mechanical Engineering Laboratory,15116,104,Laboratory,0,24,Mechanical Engr Bldg 103,Michael Momot,1600,1800,4,4349
+1037,MAE,3840,Mechanical Engineering Laboratory,15750,105,Laboratory,0,24,Mechanical Engr Bldg 103,Michael Momot,1800,2000,3,4349
+1038,MAE,4710,Mechatronics,15118,101,Laboratory,0,18,Mechanical Engr Bldg 204,Gavin Garner,1300,1500,1,4367
+1039,MAE,4710,Mechatronics,15119,102,Laboratory,0,18,Mechanical Engr Bldg 204,Gavin Garner,1200,1400,2,4367
+1040,MAE,4710,Mechatronics,15120,103,Laboratory,0,18,Mechanical Engr Bldg 204,Gavin Garner,1600,1800,2,4367
+1041,MAE,4710,Mechatronics,15121,104,Laboratory,0,18,Mechanical Engr Bldg 204,Gavin Garner,1300,1500,3,4367
+1042,MAE,4710,Mechatronics,15122,105,Laboratory,0,18,Mechanical Engr Bldg 204,Gavin Garner,1300,1500,4,4367
+1043,STS,1500,"Science, Technology, and Contemporary Issues",15667,101,Discussion,0,48,Thornton Hall A238,Peter Westin,930,1045,2,4481
+1044,STS,1500,"Science, Technology, and Contemporary Issues",15668,102,Discussion,0,48,Thornton Hall A238,Benjamin Laugelli,1100,1215,2,4481
+1045,STS,1500,"Science, Technology, and Contemporary Issues",15669,103,Discussion,0,48,Thornton Hall A238,Matthew Henderson,1230,1345,2,4481
+1046,STS,1500,"Science, Technology, and Contemporary Issues",15670,104,Discussion,0,48,Thornton Hall A238,Benjamin Laugelli,1400,1515,1,4481
+1047,STS,1500,"Science, Technology, and Contemporary Issues",15671,105,Discussion,0,48,Thornton Hall A238,Peter Westin,1200,1315,3,4481
+1048,STS,1500,"Science, Technology, and Contemporary Issues",15672,106,Discussion,0,48,Thornton Hall A238,Peter Westin,930,1045,4,4481
+1049,STS,1500,"Science, Technology, and Contemporary Issues",15673,107,Discussion,0,48,Thornton Hall A238,Matthew Henderson,1100,1215,4,4481
+1050,STS,1500,"Science, Technology, and Contemporary Issues",15674,108,Discussion,0,48,Thornton Hall A238,Matthew Henderson,1230,1345,4,4481
+1051,STS,1500,"Science, Technology, and Contemporary Issues",16280,110,Discussion,0,48,Thornton Hall A238,Benjamin Laugelli,1530,1645,1,4481
+1052,SYS,3062,Discrete Event Simulation,16045,100,Laboratory,0,67,Olsson Hall 005,James Lark+1,1700,1815,1,4532
+1053,SYS,3062,Discrete Event Simulation,16046,101,Laboratory,0,71,Olsson Hall 009,James Lark+1,1530,1645,3,4532
+1054,EDLF,8384,Lab of Practice of Qualitative Inquiry,19096,500,Laboratory,1,20,Web-Based Course,David Eddy Spicer02/27 ,1700,2000,4,4841
+1055,EDLF,8384,Lab of Practice of Qualitative Inquiry,19745,501,Laboratory,1,20,Web-Based Course,Christian Steinmetz,50,52,1,4841
+1056,EDLF,8384,Lab of Practice of Qualitative Inquiry,19980,502,Laboratory,1,20,Web-Based Course,Amanda Turner+1,58,100,1,4841
+1057,EDLF,8386,Lab of Practice of Survey Inquiry,19736,500,Laboratory,1,20,Web-Based Course,Ginger Watson,42,44,1,4842
+1058,KINE,4601,Athletic Injuries Lab,14665,1,Laboratory,1,30,Contact Department,Andrea Baellow,1000,1050,5,5232
